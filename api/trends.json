@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T07:23:00.327105+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-12-13T09:48:34.814269+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 07时23分]"
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 09时48分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时48分]"
         },
         {
           "title": "美元指数连跌三周",
