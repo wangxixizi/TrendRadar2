@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T12:38:53.132127+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-12-16T13:27:03.937070+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 13时27分]"
         },
         {
           "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
@@ -95,7 +95,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         }
