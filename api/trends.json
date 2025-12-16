@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-16T13:27:03.937070+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-12-16T14:50:22.501633+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 6,
       "titles": [
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时24分 ~ 14时50分]"
+        },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 13时27分]"
         },
         {
           "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
