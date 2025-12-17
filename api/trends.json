@@ -1,7 +1,10 @@
 {
-  "generated_at": "2025-12-17T17:32:25.723854+08:00",
-  "total_titles_processed": 1571,
-  "failed_sources": [],
+  "generated_at": "2025-12-17T18:31:57.090453+08:00",
+  "total_titles_processed": 1648,
+  "failed_sources": [
+    "toutiao",
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
