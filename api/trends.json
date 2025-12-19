@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T01:21:54.578717+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-20T02:35:09.776685+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
-          "url": "https://wallstreetcn.com/livenews/3024093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
+          "url": "https://wallstreetcn.com/livenews/3024093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时35分]"
         }
       ]
     },
@@ -43,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         }
       ]
     }
