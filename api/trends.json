@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T16:34:21.658334+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-12-19T17:28:49.555937+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
@@ -140,6 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
