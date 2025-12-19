@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T20:49:30.660495+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2025-12-19T21:36:15.360257+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
@@ -153,11 +153,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 20时49分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时36分]"
         }
       ]
     }
