@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T07:23:25.328432+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-20T09:48:33.031923+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时48分]"
         },
         {
           "title": "美元指数本周涨0.2%",
@@ -56,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时24分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
