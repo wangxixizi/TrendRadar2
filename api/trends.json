@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T11:39:56.065192+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-12-23T12:40:34.356388+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 11时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 12时40分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
