@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T07:23:16.233262+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2025-12-25T09:55:58.591175+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[02时35分 ~ 05时22分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 09时55分]"
+        },
+        {
           "title": "美元指数24日基本收平",
           "url": "https://flash.jin10.com/detail/20251225045209388800",
           "source": "金十数据",
@@ -41,18 +54,6 @@
           "ranks": [
             3,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
