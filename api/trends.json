@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T22:26:04.937337+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-12-29T23:27:59.740151+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
@@ -18,25 +18,26 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时27分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
@@ -48,6 +49,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "美股开盘，道指跌0.19%，标普500指数跌0.43%，纳指跌0.75%。贵金属价格日内重挫，矿业股普遍低开，泛美白银(PAAS.O)、科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、纽蒙特矿业(NEM.N)跌约5%。",
+          "url": "https://flash.jin10.com/detail/20251229223023088800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
