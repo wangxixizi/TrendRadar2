@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T19:23:14.232045+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-29T20:53:29.127058+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时53分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
