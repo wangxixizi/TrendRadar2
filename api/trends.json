@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-30T07:24:00.760379+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-12-30T09:56:30.707544+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2243401",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时56分]"
+        },
         {
           "title": "周一（12月29日）纽约尾盘，ICE美元指数涨0.01%，报98.028点，日内交投区间为97.915-98.177点，整体出现三波V形反转和随之而来的冲高回落。 彭博美元指数涨0.02%，报1201.15点，日内交投区间为1199.80-1202.54点。",
           "url": "https://wallstreetcn.com/livenews/3028317",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2243401",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
@@ -90,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时56分]"
         }
       ]
     }
