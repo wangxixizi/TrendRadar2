@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T11:41:35.815230+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-12-30T12:42:39.828538+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时41分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时42分]"
         },
         {
           "title": "周一（12月29日）纽约尾盘，ICE美元指数涨0.01%，报98.028点，日内交投区间为97.915-98.177点，整体出现三波V形反转和随之而来的冲高回落。 彭博美元指数涨0.02%，报1201.15点，日内交投区间为1199.80-1202.54点。",
@@ -95,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时42分]"
         }
       ]
     }
