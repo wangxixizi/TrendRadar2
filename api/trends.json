@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:22:02.027755+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-01-02T20:49:34.950462+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时46分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 20时49分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -61,11 +61,12 @@
             22,
             14,
             15,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 19时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 20时49分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
