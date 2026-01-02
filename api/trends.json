@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:26:25.191504+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-01-02T19:22:02.027755+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时46分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时46分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -60,11 +60,12 @@
             11,
             22,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 18时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -98,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 18时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 19时22分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
