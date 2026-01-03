@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T14:37:01.022198+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-01-03T15:22:54.818758+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             16,
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 15时22分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -34,11 +35,12 @@
             9,
             10,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘，ICE美元指数涨0.11%，报98.435点，本周（四个交易日）累计上涨0.40%，交投区间为97.915-98.499点。 彭博美元指数涨0.06%，报1204.27点，本周累涨0.29%，交投区间为1199.80-1205.45点。",
@@ -99,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时22分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
