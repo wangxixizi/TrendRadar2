@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-01-04T23:23:14.365978+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-01-05T00:29:51.310389+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
-          "url": "https://www.zhihu.com/question/1990117220391622363",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时37分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
