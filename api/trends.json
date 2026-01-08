@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T14:40:02.214987+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-01-08T15:28:43.516607+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 15时28分]"
         },
         {
           "title": "美股三大股指期货持续下挫，纳指期货跌超0.6%，标普500指数期货跌0.4%，道指期货跌0.3%。",
@@ -27,7 +27,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
