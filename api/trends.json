@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:43:04.977594+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-01-08T13:29:33.852414+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 12时43分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 13时29分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
