@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:22:53.621223+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-10T04:29:27.425877+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     }
