@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:28:00.492631+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-01-10T12:37:17.351769+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时37分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -92,11 +92,25 @@
             8,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时29分 ~ 11时28分]"
+          "appearance_count": 8,
+          "time_info": "[04时29分 ~ 12时37分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 12时37分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -107,20 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时28分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时37分]"
         }
       ]
     }
