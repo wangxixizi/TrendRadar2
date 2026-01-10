@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:25:28.393132+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-01-10T18:24:48.152215+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -26,6 +26,21 @@
           "time_info": "[04时29分 ~ 15时22分]"
         },
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 18时24分]"
+        },
+        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -36,22 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 17时25分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 12,
-          "time_info": "[07时24分 ~ 17时25分]"
+          "time_info": "[09时55分 ~ 18时24分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -73,11 +74,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -89,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时24分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -117,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时55分 ~ 18时24分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
