@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:24:48.152215+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-01-10T19:20:55.698146+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 19时20分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -51,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -61,11 +61,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时35分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -88,11 +89,12 @@
           "ranks": [
             15,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -119,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时55分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 19时20分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
