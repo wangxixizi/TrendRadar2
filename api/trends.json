@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:25:14.327016+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-01-11T16:32:09.841452+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 15时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 16时32分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -60,19 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
