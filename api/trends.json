@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-12T07:23:47.918543+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-12T10:04:23.544134+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
+          "url": "https://flash.jin10.com/detail/20260112062355901800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "为什么 Claude 的代码能力会这么强？",
+          "url": "https://www.zhihu.com/question/1914086301076029991",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -17,23 +45,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
-          "url": "https://flash.jin10.com/detail/20260112062355901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         }
       ]
     }
