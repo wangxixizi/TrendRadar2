@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T18:29:31.031488+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-01-13T19:24:54.446601+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -110,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
