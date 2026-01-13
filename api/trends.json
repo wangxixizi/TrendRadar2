@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:30:56.032472+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2026-01-13T23:31:30.142965+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     },
@@ -107,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时30分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 23时31分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
