@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:43:59.998417+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-01-13T13:29:49.898709+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时29分]"
         },
         {
           "title": "美元指数跌约0.3%",
@@ -92,11 +92,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时29分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
