@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:24:54.446601+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-01-13T20:55:49.845898+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
@@ -87,6 +87,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 20时55分]"
+        },
+        {
           "title": "DeepSeek发布梁文锋署名新论文",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "百度热搜",
@@ -99,19 +112,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时41分 ~ 14时40分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
