@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:55:49.845898+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-13T21:45:06.485858+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币集体走高",
+          "url": "https://flash.jin10.com/detail/20260113213309385800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
@@ -96,8 +107,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时45分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
