@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T13:30:40.701380+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-01-15T14:40:02.483383+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时30分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 14时40分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -125,8 +125,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 14时40分]"
         }
       ]
     }
