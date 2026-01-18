@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-18T14:37:10.067292+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-01-18T15:24:07.104589+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
       "match_count": 2,
       "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 15时24分]"
+        },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
           "url": "https://wallstreetcn.com/livenews/3039168",
@@ -15,22 +27,12 @@
             3,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时37分]"
-        },
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时24分]"
         }
       ]
     },
