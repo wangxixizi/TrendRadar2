@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:47:18.155967+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-01-18T21:32:12.911150+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 21时32分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时32分]"
         }
       ]
     },
