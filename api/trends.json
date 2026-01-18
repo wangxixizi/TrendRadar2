@@ -1,45 +1,8 @@
 {
-  "generated_at": "2026-01-18T23:24:09.287658+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-01-19T00:29:50.031058+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时36分 ~ 23时24分]"
-        },
-        {
-          "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
-          "url": "https://wallstreetcn.com/livenews/3039168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            6,
-            8,
-            9,
-            15,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 18时26分]"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -49,30 +12,28 @@
           "url": "https://wallstreetcn.com/articles/3763534",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时20分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
+      "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 10时06分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
