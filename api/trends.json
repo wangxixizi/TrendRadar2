@@ -1,55 +1,22 @@
 {
-  "generated_at": "2026-01-19T23:32:08.641723+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-01-20T00:35:20.065533+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
-        },
         {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
           "url": "https://wallstreetcn.com/articles/3763553",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时04分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 16时38分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     }
