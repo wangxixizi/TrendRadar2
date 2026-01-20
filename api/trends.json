@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-20T22:36:10.787791+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-01-20T23:36:30.193022+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美国最高法院周二未就特朗普关税相关事宜作出裁决。 标普目前跌1.5%，道指跌744点跌幅1.5%，纳指跌416点跌幅1.8%，半导体指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3040560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
           "url": "https://wallstreetcn.com/livenews/3039869",
@@ -66,15 +77,37 @@
           "time_info": "11时51分"
         },
         {
+          "title": "恒天然：1月20日全球乳品贸易（GDT）拍卖价格指数上涨1.5%，奶粉各合同期FAS拍卖均价3,615美元/吨。 批发奶粉价格指数上升1.0%，报3,449美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3040547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "丹麦基金宣布抛售后，美国国债跌势延续。 欧元兑美元升至盘中高点1.1768。 美元指数短线走低约20点，现报98.37。 瑞典克朗和丹麦克朗兑美元上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3040513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
+        },
+        {
+          "title": "行业ETF美股盘初几乎全线溃败，生物科技指数ETF、可选消费ETF、全球科技股指数ETF至多跌2.29%，网络股指数ETF、科技行业ETF、半导体ETF至多跌1.82%，能源业ETF涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3040543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "欧美股市跌幅扩大，纳斯达克100指数期货跌2%，德国DAX指数跌超1%",
