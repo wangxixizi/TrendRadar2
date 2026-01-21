@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T21:52:12.266758+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2026-01-21T22:36:07.096657+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时27分 ~ 14时42分]"
+        },
+        {
+          "title": "在美国总统特朗普讲话之际，欧洲斯托克600指数跌幅收窄至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260121220625736800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
@@ -119,11 +130,12 @@
             3,
             14,
             10,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时08分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时08分 ~ 22时36分]"
         }
       ]
     }
