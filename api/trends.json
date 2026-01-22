@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T12:11:58.038849+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-01-22T13:32:53.777951+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 13时32分]"
         },
         {
           "title": "美元指数21日上涨",
@@ -119,11 +119,12 @@
             9,
             15,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 12时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 13时32分]"
         }
       ]
     },
