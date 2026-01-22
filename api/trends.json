@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T07:31:15.300914+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-22T10:03:42.496612+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2265761",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时03分]"
         },
         {
           "title": "美元指数21日上涨",
@@ -116,11 +117,12 @@
             3,
             12,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 10时03分]"
         }
       ]
     },
