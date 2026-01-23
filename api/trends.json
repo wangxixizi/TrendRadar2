@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T15:30:14.916387+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-01-23T16:36:15.000737+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -128,6 +128,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时38分 ~ 07时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 16时36分]"
         }
       ]
     }
