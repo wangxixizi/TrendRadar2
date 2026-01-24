@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:21:40.129214+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-01-24T20:49:06.552671+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时49分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -139,11 +140,12 @@
           "url": "https://wallstreetcn.com/articles/3764072",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时49分]"
         }
       ]
     }
