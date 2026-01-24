@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T09:55:57.349519+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-01-24T11:39:50.755981+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 11时39分]"
+        },
+        {
           "title": "美元指数跌破98关口，为12月30日以来首次，目前跌0.3%。 彭博美元指数创10月份以来新低。",
           "url": "https://wallstreetcn.com/livenews/3043068",
           "source": "华尔街见闻-快讯",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 03时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时55分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报434.46点，本周累上涨9.99%，整体持续走高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.38%，报3039.09点，本周累涨10.09%。 （美股）原材料指数收涨1.26%，报265.28点，本周累涨5.18%。 （美股）金属与矿业指数收涨1.91%，报252.45点，本周累涨4.36%。",
@@ -129,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 11时39分]"
         }
       ]
     }
