@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-26T13:36:10.789563+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-01-26T14:43:01.316161+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
           "url": "https://www.zhihu.com/question/1993355026530317494",
