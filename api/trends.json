@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T02:41:47.054614+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-01-27T03:27:53.008706+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时27分]"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -58,11 +59,12 @@
           "url": "https://www.zhihu.com/question/1998162232379458760",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时27分]"
         }
       ]
     }
