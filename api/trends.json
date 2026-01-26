@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-26T12:18:53.183833+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-01-26T13:36:10.789563+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 13时36分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
