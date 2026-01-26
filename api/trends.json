@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-27T05:28:53.800076+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-27T06:27:48.835531+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3044195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
           "url": "https://wallstreetcn.com/livenews/3044129",
@@ -32,15 +21,50 @@
           "time_info": "[01时34分 ~ 03时27分]"
         },
         {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时27分]"
+        },
+        {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
           "url": "https://flash.jin10.com/detail/20260127050513890800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时27分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -60,7 +84,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -71,7 +95,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
@@ -109,8 +133,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 06时27分]"
         }
       ]
     }
