@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-28T01:32:10.439788+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-01-28T02:44:19.019378+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 4,
       "titles": [
+        {
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时44分]"
+        },
         {
           "title": "美股费城半导体指数涨2.5%。",
           "url": "https://flash.jin10.com/detail/20260127235011567800",
@@ -19,24 +30,13 @@
           "time_info": "00时36分"
         },
         {
-          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时32分]"
-        },
-        {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
           "url": "https://wallstreetcn.com/livenews/3044896",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -65,19 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时32分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时44分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -87,8 +76,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时44分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时44分]"
         }
       ]
     }
