@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:44:19.019378+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-28T03:31:11.643190+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时31分]"
         },
         {
           "title": "美股费城半导体指数涨2.5%。",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时31分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时31分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -88,8 +88,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 03时31分]"
         }
       ]
     }
