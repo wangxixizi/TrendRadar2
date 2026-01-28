@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:09:03.261533+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-01-28T13:33:11.624435+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://www.cls.cn/detail/2271889",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 13时33分]"
         },
         {
           "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
@@ -187,8 +188,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 13时33分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
