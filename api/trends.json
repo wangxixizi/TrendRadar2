@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:27:38.899955+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-28T10:04:03.847349+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "韩国股市市值达到3.25万亿美元，超过德国。韩国KOSPI指数一度上涨1.7%，触及5,171.85点的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260128093741134800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美元指数DXY短线走低超50点，特朗普释放让美元走弱的信号。",
@@ -58,7 +69,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -157,17 +168,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时27分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -176,8 +176,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 10时04分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 10时04分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
