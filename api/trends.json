@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:38:53.553996+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-28T17:38:56.287034+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美元指数DXY日内涨幅扩大至0.50%，现报96.24。美元兑瑞郎USD/CHF日内涨幅扩大至1.00%，现报0.7691。",
+          "url": "https://flash.jin10.com/detail/20260128165244937800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美股半导体指数涨2.4%，创收盘历史新高",
