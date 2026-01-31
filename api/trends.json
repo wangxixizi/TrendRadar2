@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:42:01.822569+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-01-31T14:45:40.001592+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 14时45分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -48,11 +48,12 @@
           "ranks": [
             14,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 14时45分]"
         },
         {
           "title": "明晟公司MSCI新兴市场基准股票指数跌1.7%，创2025年11月以来最差单日表现，1月份累计涨幅收窄至大约9%，仍然创2012年以来最佳单月表现。 新兴市场外汇指数跌约0.3%，使得1月份累计涨幅收窄至0.6%。 周五当天，南非兰特兑美元跌2.6%，创4月份以来最差表现。",
