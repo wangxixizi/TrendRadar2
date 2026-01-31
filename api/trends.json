@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T20:55:57.130680+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-31T21:44:07.070037+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[10时12分 ~ 21时44分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
