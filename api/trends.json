@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T05:39:44.754765+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-02-04T06:34:37.197937+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "彭博美元指数跌约0.3%",
@@ -26,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -42,15 +42,48 @@
           "time_info": "04时42分"
         },
         {
+          "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
+          "url": "https://wallstreetcn.com/livenews/3049350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20260204060820348800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3049320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3049340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
