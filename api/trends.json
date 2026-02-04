@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:43:58.478982+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-02-04T13:53:23.178243+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时53分]"
         },
         {
           "title": "彭博美元指数跌约0.3%",
