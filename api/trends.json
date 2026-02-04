@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:08:11.043351+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2026-02-04T22:43:45.389345+08:00",
+  "total_titles_processed": 1997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "美股开盘，道指涨0.17%，标普500指数涨0.1%，纳指跌0.16%。AMD(AMD.O)大跌11%，公司预计第一季度营收将小幅下滑。超微电脑(SMCI.O)大涨10%，公司上调年度营收预期。",
+          "url": "https://flash.jin10.com/detail/20260204223022747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
