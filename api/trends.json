@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:12:07.526116+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-02-05T16:51:07.755017+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         }
       ]
     }
