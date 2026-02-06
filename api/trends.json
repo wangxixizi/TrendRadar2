@@ -1,52 +1,23 @@
 {
-  "generated_at": "2026-02-07T03:41:08.879552+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-02-07T04:39:19.034732+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Claude",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
+      "match_count": 4,
       "titles": [
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时41分]"
-        },
-        {
-          "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
-          "url": "https://flash.jin10.com/detail/20260207021443881800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时41分]"
-        },
-        {
-          "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
-          "url": "https://wallstreetcn.com/livenews/3051595",
+          "title": "美元指数本周涨超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3051608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 2,
-      "titles": [
+          "time_info": "04时39分"
+        },
         {
           "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
           "url": "https://wallstreetcn.com/livenews/3051564",
@@ -66,6 +37,58 @@
           "ranks": [
             17,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时41分]"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时39分]"
+        },
+        {
+          "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
+          "url": "https://wallstreetcn.com/livenews/3051595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时39分]"
+        },
+        {
+          "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
+          "url": "https://flash.jin10.com/detail/20260207021443881800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
