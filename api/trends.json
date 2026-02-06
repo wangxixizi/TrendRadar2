@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T10:26:41.656518+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-02-06T12:50:24.765700+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 06时32分]"
+        },
+        {
+          "title": "印度NIFTY 50指数下跌0.5%，此前印度央行暂停加息。",
+          "url": "https://flash.jin10.com/detail/20260206124620010800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "周四（2月5日）美股尾盘，彭博电动汽车价格回报指数跌1.88%，报3467.18点，北京时间08:17短线走高，随后持续走低。 成分股沃尔沃汽车集团（欧股）收跌22.53%，Aurora Innovation股份跌9.7%，普拉格动力公司跌9%，MP材料跌7.3%，速腾聚创科技H股收涨2.79%表现第五，小米集团H股收涨2.83%，文远知行涨3.5%，地平线H股收涨3.64%，Panasonic株式会社收涨8.41%。",
@@ -79,12 +90,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
@@ -93,9 +115,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 12时50分]"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -108,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时40分]"
+        },
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2002929122574373858",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     }
