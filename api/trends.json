@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T18:44:07.684143+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-02-06T19:37:52.730030+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -140,11 +140,12 @@
           "url": "https://wallstreetcn.com/articles/3765096",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时26分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时26分 ~ 19时37分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
