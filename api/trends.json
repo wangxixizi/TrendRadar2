@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T17:35:36.205253+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-02-07T18:31:33.399821+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时30分 ~ 17时35分]"
+          "appearance_count": 12,
+          "time_info": "[07时30分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普发文称，预计到其本届任期结束时，道琼斯指数将达到10万点。",
@@ -151,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时22分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时22分 ~ 18时31分]"
         },
         {
           "title": "高盛引入Anthropic的Claude，实现会计及合规角色自动化",
@@ -204,11 +204,12 @@
             10,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[14时48分 ~ 18时31分]"
         }
       ]
     }
