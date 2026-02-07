@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T10:22:43.386332+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-07T12:41:31.034457+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 10时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时41分]"
         },
         {
           "title": "美元指数本周涨超0.6%",
@@ -137,6 +137,18 @@
           "time_info": "[03时41分 ~ 05时36分]"
         },
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 12时41分]"
+        },
+        {
           "title": "市场消息：高盛引入Anthropic的Claude模型以实现会计和合规工作自动化。",
           "url": "https://flash.jin10.com/detail/20260207021443881800",
           "source": "金十数据",
@@ -149,24 +161,13 @@
           "time_info": "[02时57分 ~ 03时41分]"
         },
         {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
           "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
           "url": "https://wallstreetcn.com/articles/3765116",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
