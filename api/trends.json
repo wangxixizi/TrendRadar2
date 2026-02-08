@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:51:42.613499+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-08T22:32:21.826564+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 21时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 22时32分]"
         },
         {
           "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
@@ -30,11 +30,12 @@
             2,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 21时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 22时32分]"
         }
       ]
     },
