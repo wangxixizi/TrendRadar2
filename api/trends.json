@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T18:08:49.026861+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-10T19:53:44.191065+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -112,6 +112,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260210192736679800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     },
