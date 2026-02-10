@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T10:42:06.460380+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-02-10T13:08:08.438663+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 10时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 13时08分]"
         },
         {
           "title": "美元指数跌超0.8%",
