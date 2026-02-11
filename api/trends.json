@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T10:39:44.732963+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-02-11T13:06:36.322747+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时06分]"
         },
         {
           "title": "美元指数10日下跌",
