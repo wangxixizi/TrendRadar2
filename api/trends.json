@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:37:22.276844+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-12T06:34:11.809579+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -48,19 +48,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时34分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 06时34分]"
         }
       ]
     },
@@ -86,7 +98,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -97,7 +109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -108,7 +120,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
