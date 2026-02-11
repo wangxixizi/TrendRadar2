@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T07:41:44.318848+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-02-11T10:39:44.732963+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 06时44分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 10时39分]"
         },
         {
           "title": "美元指数10日下跌",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时46分 ~ 07时41分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
-          "url": "https://www.cls.cn/detail/2286520",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
