@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:08:44.578624+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-02-13T22:43:57.071325+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
+          "url": "https://flash.jin10.com/detail/20260213214236124800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -205,8 +216,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时52分 ~ 21时08分]"
+          "appearance_count": 7,
+          "time_info": "[15时52分 ~ 22时43分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -255,7 +266,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
