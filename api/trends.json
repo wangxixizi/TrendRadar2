@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T19:34:20.732553+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-02-13T21:08:44.578624+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -140,7 +140,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -167,11 +167,12 @@
             15,
             14,
             16,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 19时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 21时08分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -194,6 +195,20 @@
           "time_info": "[01时05分 ~ 19时34分]"
         },
         {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 21时08分]"
+        },
+        {
           "title": "DeepSeek变冷淡了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
           "source": "百度热搜",
@@ -205,19 +220,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时35分 ~ 14时03分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时52分 ~ 19时34分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -245,6 +247,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时52分 ~ 17时51分]"
+        },
+        {
+          "title": "DeepSeek：正测试新的长文本模型结构，支持1M上下文",
+          "url": "https://wallstreetcn.com/livenews/3055185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
