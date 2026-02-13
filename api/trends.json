@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:57:08.595732+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-02-13T14:03:35.516525+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 12时57分]"
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 14时03分]"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -168,8 +168,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 14时03分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -181,11 +181,12 @@
             25,
             17,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 12时57分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 14时03分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -193,11 +194,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时03分]"
         }
       ]
     }
