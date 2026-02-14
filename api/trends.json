@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:49:55.647025+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-02-14T22:31:49.975074+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时49分 ~ 21时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时49分 ~ 22时31分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -60,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时52分 ~ 21时49分]"
+          "appearance_count": 12,
+          "time_info": "[14时52分 ~ 22时31分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
