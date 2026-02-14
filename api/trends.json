@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T15:37:13.190228+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-02-14T16:37:45.004775+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,21 @@
           "time_info": "[00时53分 ~ 07时35分]"
         },
         {
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 16时37分]"
+        },
+        {
           "title": "DeepSeek春节再扔王炸？最新披露",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
           "source": "百度热搜",
@@ -30,22 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时37分]"
-        },
-        {
-          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 16时37分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -54,22 +55,24 @@
           "ranks": [
             19,
             30,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -77,11 +80,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -110,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时37分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘，ICE美元指数持平，报96.929点，本周累计下跌0.72%，周一显著走低，整体呈现出长尾L形走势。 彭博美元指数跌0.02%，报1181.91点，本周累跌0.74%。",
@@ -206,11 +210,12 @@
           "ranks": [
             1,
             7,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时37分]"
         }
       ]
     }
