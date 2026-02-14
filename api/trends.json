@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-14T18:31:29.039325+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-14T19:26:20.738698+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 19时26分]"
+        },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
@@ -22,19 +35,6 @@
           "time_info": "[00时53分 ~ 07时35分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 18时31分]"
-        },
-        {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 19时26分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 19时26分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -74,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 19时26分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
