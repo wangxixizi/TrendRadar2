@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T14:52:24.404767+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-02-14T15:37:13.190228+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时37分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -57,8 +57,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -67,20 +67,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%BC%A0%E7%94%9A%E8%87%B3%E5%87%B6%E5%87%B6%E7%9A%84%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -109,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 15时37分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘，ICE美元指数持平，报96.929点，本周累计下跌0.72%，周一显著走低，整体呈现出长尾L形走势。 彭博美元指数跌0.02%，报1181.91点，本周累跌0.74%。",
@@ -204,11 +205,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 15时37分]"
         }
       ]
     }
