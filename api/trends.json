@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-02-15T23:30:25.684695+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-02-16T00:36:32.202463+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 10时35分]"
-        },
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
           "url": "https://wallstreetcn.com/articles/3765742",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 23时30分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
-          "url": "https://flash.jin10.com/detail/20260215103819376800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 14时01分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
