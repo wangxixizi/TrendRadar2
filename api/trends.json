@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T10:35:50.693305+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-02-15T12:57:52.548307+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
+          "url": "https://flash.jin10.com/detail/20260215103819376800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     }
