@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:12:03.497316+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-02-16T22:45:02.958265+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2004174915692172333",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 22时45分]"
         },
         {
           "title": "千问Qwen3.5大模型发布",
@@ -93,7 +94,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         }
