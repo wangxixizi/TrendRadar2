@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T17:59:10.929031+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-02-16T18:59:02.462676+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Qwen",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【阿里除夕夜将开源新一代千问Qwen3.5模型】消息人士透露，阿里今晚除夕夜将开源新一代千问大模型Qwen3.5，该模型实现了模型架构的全面创新，有望实现国产模型新的里程碑。去年，阿里在除夕深夜发布Qwen2.5-Max。（硬AI）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "千问Qwen3.5大模型发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEQwen3.5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
         },
         {
           "title": "阿里除夕夜将开源新一代千问Qwen3.5模型",
