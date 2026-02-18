@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:34:15.998644+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-18T10:32:16.931621+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
