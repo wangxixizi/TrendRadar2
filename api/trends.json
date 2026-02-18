@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T21:13:14.138043+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-02-18T22:50:44.245712+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 21时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时31分 ~ 22时50分]"
+        },
+        {
+          "title": "美股高开，道指涨0.16%、标普500指数涨0.28%、纳指涨0.23%。英伟达(NVDA.O)涨1.8%，Meta与该公司签署数十亿美元多年期协议。纳斯达克中国金龙指数涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260218223031911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
