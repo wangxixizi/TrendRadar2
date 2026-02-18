@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T16:52:59.474242+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-02-18T17:54:22.601951+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 17时54分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
@@ -139,7 +139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
