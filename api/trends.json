@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:52:26.591481+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-02-19T23:54:03.233175+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -28,11 +28,12 @@
             11,
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 22时52分]"
+          "appearance_count": 25,
+          "time_info": "[00时04分 ~ 23时54分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -44,8 +45,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时51分 ~ 22时52分]"
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 23时54分]"
+        },
+        {
+          "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -65,7 +77,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -112,7 +124,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -138,11 +150,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时54分]"
         }
       ]
     },
