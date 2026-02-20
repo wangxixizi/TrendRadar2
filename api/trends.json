@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T07:34:41.873015+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-20T10:27:03.778498+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 10时27分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时37分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
