@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T19:36:25.035056+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-02-20T21:06:44.891005+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             11,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 19时36分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 21时06分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -38,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时58分 ~ 19时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 21时06分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
