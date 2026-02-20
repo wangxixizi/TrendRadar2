@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T13:57:29.759164+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-20T15:04:56.724764+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 15时04分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 13时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 15时04分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 15时04分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
