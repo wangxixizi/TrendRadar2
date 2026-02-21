@@ -1,250 +1,50 @@
 {
-  "generated_at": "2026-02-21T23:29:59.897678+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-02-22T00:34:41.638542+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时13分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时44分 ~ 23时29分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 12时40分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 06时32分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时56分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3057139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            20,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 15时36分]"
-        },
-        {
-          "title": "“特朗普关税输家指数”收涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3057129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 12时40分]"
-        },
-        {
-          "title": "美元指数本周涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3057096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时30分]"
-        },
-        {
-          "title": "耐克跌幅扩大至2.6%。 “特朗普关税输家指数”跌0.3%，刷新日低至117.81点，美国最高法院判定特朗普关税政策违法时飙升至122.02点刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3057031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时56分]"
-        },
-        {
-          "title": "美国总统特朗普谈及贸易扩张法案232条款、122条款、201条款、以及301条款，称这些都是选项，232和301关税保留。 特朗普签署命令，将实施10%的全球关税，“我认为三天后生效”。 威胁要征收15%-30%的汽车关税。 “我已经拯救了英特尔。” 标普500指数涨幅扩大至0.6%，半导体指数涨0.9%%。",
-          "url": "https://wallstreetcn.com/livenews/3057068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时37分]"
-        },
-        {
-          "title": "标普500指数涨幅重新扩大至0.6%，纳斯达克综合指数日内涨幅达1.0%，报22910.12点。 “特朗普关税输家指数”一度从118.50点附近狂飙至122.02点，日内整体涨幅瞬间扩大至超过3.19%，目前涨幅不足1.20%。 现货白银日内涨幅达5.0%，报82.45美元/盎司。 纽约银日内涨幅达6.0%，报82.3美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3057005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
-          "url": "https://flash.jin10.com/detail/20260220235256591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美国最高法院宣判特朗普关税政策违法当天，标普500指数收涨47.62点，涨幅0.69%，报6909.51点，本周（四个交易日）累计上涨1.07%。 道琼斯工业平均指数收涨230.81点，涨幅0.47%，报49625.97点，本周累涨0.25%。 纳斯达克综合指数（纳指）收涨203.34点，涨幅0.90%，报22886.069点，本周累涨1.51%。 纳斯达克100指数收涨215.279点，涨幅0.87%，报25012.619点，本周累涨1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3057111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "阿里千问推出Qwen Coding Plan",
           "url": "https://wallstreetcn.com/livenews/3057176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            10,
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 23时29分]"
-        },
-        {
-          "title": "阿里千问推出Qwen Coding Plan",
-          "url": "https://flash.jin10.com/detail/20260221171046643800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
-          "url": "https://www.zhihu.com/question/2008176730532234790",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 21时46分]"
-        },
-        {
-          "title": "网络安全股重挫，Anthropic发布Claude安全工具",
-          "url": "https://wallstreetcn.com/livenews/3057110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时33分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
