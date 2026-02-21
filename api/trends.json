@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T20:56:11.340834+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-02-21T21:46:15.322757+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时13分 ~ 20时56分]"
+          "appearance_count": 16,
+          "time_info": "[10时13分 ~ 21时46分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 20时56分]"
+          "appearance_count": 26,
+          "time_info": "[00时44分 ~ 21时46分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -196,8 +196,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时46分]"
         },
         {
           "title": "阿里千问推出Qwen Coding Plan",
@@ -225,11 +225,12 @@
           "ranks": [
             10,
             9,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 20时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 21时46分]"
         },
         {
           "title": "网络安全股重挫，Anthropic发布Claude安全工具",
