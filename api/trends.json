@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:29:49.783756+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:31:07.122152+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         }
       ]
     },
@@ -47,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         }
       ]
     }
