@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:31:15.332809+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-02-22T23:30:42.720185+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时34分 ~ 22时31分]"
+          "appearance_count": 31,
+          "time_info": "[00时34分 ~ 23时30分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时54分 ~ 22时31分]"
+          "appearance_count": 19,
+          "time_info": "[13时54分 ~ 23时30分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时52分 ~ 22时31分]"
+          "appearance_count": 20,
+          "time_info": "[12时52分 ~ 23时30分]"
         }
       ]
     },
