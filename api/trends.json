@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:36:11.455461+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-02-22T18:30:37.577730+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -17,20 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 17时36分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 17时36分]"
+          "appearance_count": 22,
+          "time_info": "[00时34分 ~ 18时30分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -44,8 +32,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 18时30分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时34分 ~ 18时30分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时52分 ~ 18时30分]"
         }
       ]
     },
