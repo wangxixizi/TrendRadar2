@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T01:58:37.914708+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-25T03:14:23.847937+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时14分]"
+        },
+        {
+          "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
+          "url": "https://www.zhihu.com/question/2009482926241382805",
+          "source": "知乎",
+          "ranks": [
+            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时58分]"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时14分]"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)在阿联酋、巴林推出Claude跨区域推理服务。",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
-          "url": "https://www.zhihu.com/question/2009482926241382805",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
         },
         {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
@@ -87,7 +89,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         }
