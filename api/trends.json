@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-26T00:47:49.114451+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T02:01:35.344115+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic：收购Vercept，以推进Claude的计算机使用能力。Vercept将于未来几周内停止其对外提供的产品，并加入Anthropic，共同推动计算机应用的前沿发展。",
+          "url": "https://flash.jin10.com/detail/20260226010414510800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
