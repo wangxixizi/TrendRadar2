@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:01:28.809028+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-02-26T15:13:34.928489+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 14时01分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 15时13分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
