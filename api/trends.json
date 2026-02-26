@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:38:35.759222+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-02-27T07:34:48.931455+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -79,6 +79,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS：Anthropic首席执行官表示，昨晚收到的五角大楼合同条款在防止Claude被用于大规模监视方面几乎没有取得任何进展。公司仍致力于继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260227063415951800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     }
