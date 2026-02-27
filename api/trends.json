@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T10:25:11.417382+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-02-27T12:48:39.699939+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
           "url": "https://www.zhihu.com/question/2010465986483025153",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 12时48分]"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
@@ -95,8 +96,19 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "全球最大主权财富基金用Claude“扫雷”：问题公司24小时现形",
+          "url": "https://www.cls.cn/detail/2296527",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
         {
           "title": "据AXIOS：Anthropic首席执行官表示，昨晚收到的五角大楼合同条款在防止Claude被用于大规模监视方面几乎没有取得任何进展。公司仍致力于继续谈判。",
           "url": "https://flash.jin10.com/detail/20260227063415951800",
