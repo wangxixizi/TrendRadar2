@@ -1,112 +1,22 @@
 {
-  "generated_at": "2026-03-02T23:46:28.619914+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2026-03-03T00:55:21.369342+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数DXY站上98，日内涨0.34%。",
-          "url": "https://flash.jin10.com/detail/20260302061646512800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3062001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美元指数站上98.00关口，日内涨超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3061303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美元指数涨0.6%，报98.22，创1月23日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3061585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌幅扩大至2%，标普500指数期货下跌1.6%，道指期货跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3061698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价哈梅内伊遇害后，《深度揭秘 Claude 和 Palantir 是如何杀死哈梅内伊的》一文爆火？",
-          "url": "https://www.zhihu.com/question/2011518850919789928",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "Anthropic：Claude问题得到确认，正在处置。",
-          "url": "https://wallstreetcn.com/livenews/3062017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
-          "url": "https://www.cls.cn/detail/2298837",
-          "source": "财联社热门",
+          "title": "Anthropic：Claude服务中断问题得到处置。",
+          "url": "https://wallstreetcn.com/livenews/3062047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "00时55分"
         }
       ]
     }
