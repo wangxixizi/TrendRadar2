@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T13:53:35.969706+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-03T14:57:59.132040+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -108,6 +108,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时57分]"
+        },
+        {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
           "url": "https://wallstreetcn.com/livenews/3062084",
           "source": "华尔街见闻-快讯",
@@ -118,18 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时55分]"
-        },
-        {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时53分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
