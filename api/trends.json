@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T23:52:15.057764+08:00",
-  "total_titles_processed": 2155,
+  "generated_at": "2026-03-04T00:55:03.906465+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -16,175 +16,16 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
-        },
-        {
-          "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20260303012108985800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "美元指数2日大幅上涨",
-          "url": "https://flash.jin10.com/detail/20260303061532268800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美元指数涨0.8%",
-          "url": "https://wallstreetcn.com/livenews/3062129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时38分]"
-        },
-        {
-          "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
-          "url": "https://wallstreetcn.com/livenews/3062170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
-          "url": "https://wallstreetcn.com/livenews/3062168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
-          "url": "https://wallstreetcn.com/livenews/3062167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美股费城银行指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3062071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 02时55分]"
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
           "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3062873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3062316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3062849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 14时57分]"
-        },
-        {
-          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
-          "url": "https://wallstreetcn.com/livenews/3062084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 02时55分]"
-        },
-        {
-          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3062080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 02时55分]"
-        },
-        {
-          "title": "Anthropic：Claude服务中断问题得到处置。",
-          "url": "https://wallstreetcn.com/livenews/3062047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时55分"
         }
