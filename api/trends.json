@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T02:57:24.411327+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-04T03:42:09.769361+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "恒天然：3月3日全球乳品贸易（GDT）拍卖价格指数上涨5.7%，奶粉各合同期FAS拍卖均价4,301美元/吨。 批发奶粉价格指数涨4.5%，报3,863美元/吨。",
