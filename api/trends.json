@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T02:57:29.784434+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-05T03:41:37.647502+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时41分]"
         },
         {
           "title": "Claude Code 真的那么厉害吗？",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时41分]"
         }
       ]
     }
