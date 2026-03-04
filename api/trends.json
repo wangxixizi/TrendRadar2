@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T21:04:56.634425+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2026-03-04T22:40:57.675739+08:00",
+  "total_titles_processed": 2048,
   "failed_sources": [],
   "trends": [
     {
@@ -111,9 +111,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 22时40分]"
         },
         {
           "title": "Anthropic大模型Claude推出技能创造者的增强功能。",
