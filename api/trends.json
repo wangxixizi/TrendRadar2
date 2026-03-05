@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T05:40:38.854233+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-03-06T06:36:53.928844+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数5日上涨",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -31,6 +31,19 @@
           "time_info": "[02时08分 ~ 03时54分]"
         },
         {
+          "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
+          "url": "https://wallstreetcn.com/livenews/3064653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 06时36分]"
+        },
+        {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3064618",
           "source": "华尔街见闻-快讯",
@@ -43,16 +56,15 @@
           "time_info": "[02时08分 ~ 03时54分]"
         },
         {
-          "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
-          "url": "https://wallstreetcn.com/livenews/3064653",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            17
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "美股延续跌势，纳指短线下挫，现跌近1%，道指跌约2%，标普500指数跌1.2%。",
