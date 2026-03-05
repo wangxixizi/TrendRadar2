@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T02:08:34.683834+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-06T03:54:58.498731+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3064619",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 03时54分]"
         },
         {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3064618",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 03时54分]"
         },
         {
           "title": "美股延续跌势，纳指短线下挫，现跌近1%，道指跌约2%，标普500指数跌1.2%。",
