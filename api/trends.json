@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:49:58.309685+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-03-06T14:56:16.503090+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[06时36分 ~ 14时56分]"
         },
         {
           "title": "美元指数5日上涨",
