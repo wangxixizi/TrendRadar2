@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T14:48:06.023943+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-03-07T15:32:11.989475+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 14时48分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 15时32分]"
         },
         {
           "title": "美元指数本周涨1.4%",
