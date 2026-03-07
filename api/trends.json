@@ -1,65 +1,22 @@
 {
-  "generated_at": "2026-03-07T23:28:44.017736+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-03-08T00:33:11.827603+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            6,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时31分 ~ 23时28分]"
-        },
-        {
-          "title": "美元指数本周涨1.4%",
-          "url": "https://wallstreetcn.com/livenews/3065462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时33分]"
-        },
-        {
-          "title": "彭博美元指数转跌，（快速）回吐美国非农就业报告发布以来这一波涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3065349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
-          "url": "https://flash.jin10.com/detail/20260307034037320800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时31分]"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }
