@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T07:27:24.948886+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-08T10:29:17.414764+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛的判断：Claude Cowork成首个“代理工作流可信案例”，OpenClaw展示未来人机交互方向",
+          "url": "https://wallstreetcn.com/articles/3766958",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
         }
       ]
     }
