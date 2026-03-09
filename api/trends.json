@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T17:56:53.955873+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-09T18:52:23.509983+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 18时52分]"
         },
         {
           "title": "美元指数DXY突破99，日内涨0.45%。",
@@ -67,7 +67,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
