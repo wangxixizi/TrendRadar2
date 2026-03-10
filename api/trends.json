@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-11T05:33:30.845576+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-03-11T06:33:11.257052+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
+        },
         {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
           "url": "https://wallstreetcn.com/livenews/3067537",
@@ -37,7 +48,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
