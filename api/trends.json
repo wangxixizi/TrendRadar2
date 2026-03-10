@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T10:22:53.565254+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-03-10T12:45:17.252011+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 10时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 12时45分]"
         },
         {
           "title": "周一（3月9日），降息赢家指数涨0.09%，报91.37点，跳空低开之后，盘初跌至87.53点。 “特朗普关税输家”指数涨0.01%，“特朗普金融指数”跌0.20%。 散户抱团概念股指数/迷因股（meme stock）指数涨1.79%。",
@@ -86,7 +86,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
