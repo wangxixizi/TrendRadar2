@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T17:51:16.587542+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-10T18:44:31.391189+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
@@ -105,7 +105,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Anthropic：计划在Claude Code中推出“代码审查”（Code Review）功能，该功能将率在Claude for Teams和Claude for Enterprise客户的研究预览版中推出。",
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时39分]"
+        },
+        {
+          "title": "亚马逊发言人：AWS客户和合作伙伴可以继续将其所有与美国战争部无关的工作负载迁移到Claude上。",
+          "url": "https://flash.jin10.com/detail/20260310182126798800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "亚马逊云服务(AWS)：将为亚马逊基础模型服务（Amazon Bedrock）引入全球跨区域推理功能，并在印度引入Anthropic公司的Claude模型。",
