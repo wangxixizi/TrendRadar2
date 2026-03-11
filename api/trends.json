@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T10:22:53.746511+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-03-11T12:46:41.188493+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 12时46分]"
         },
         {
           "title": "周二（3月10日）纽约尾盘，ICE美元指数涨0.11%，报98.842点，日内交投区间为98.939-98.492点，整体呈现出W形走势。 彭博美元指数跌0.11%，报1200.15点，日内交投区间为1202.24-1195.63点。",
