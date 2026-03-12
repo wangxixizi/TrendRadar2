@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:35:16.143975+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-03-12T21:08:45.286318+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -90,6 +90,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
+          "url": "https://flash.jin10.com/detail/20260312203103505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美元指数11日上涨",
           "url": "https://flash.jin10.com/detail/20260312034424456800",
           "source": "金十数据",
@@ -99,6 +110,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
+          "url": "https://www.zhihu.com/question/2015404541256959842",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     }
