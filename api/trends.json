@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T06:32:39.622894+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-14T07:32:39.601887+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时32分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
@@ -65,8 +65,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
@@ -77,8 +77,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时32分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
@@ -86,11 +86,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时32分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
@@ -98,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时32分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -116,13 +118,24 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "彭博美元现货指数创2026年收盘新高",
           "url": "https://wallstreetcn.com/livenews/3070004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
@@ -142,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时32分]"
         }
       ]
     }
