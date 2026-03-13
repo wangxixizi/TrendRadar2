@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T00:45:40.002434+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-14T01:38:58.607461+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时38分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -26,8 +26,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时38分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时38分]"
         }
       ]
     }
