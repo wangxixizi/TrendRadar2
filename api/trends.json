@@ -1,55 +1,83 @@
 {
-  "generated_at": "2026-03-14T04:40:00.925316+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-14T05:37:22.652637+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
           "url": "https://wallstreetcn.com/articles/3767392",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时37分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
           "url": "https://flash.jin10.com/detail/20260314043306471800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时37分]"
         },
         {
           "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
           "url": "https://wallstreetcn.com/livenews/3070008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时37分]"
         },
         {
           "title": "彭博美元现货指数创2026年收盘新高。",
           "url": "https://wallstreetcn.com/livenews/3070004",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "美元指数收盘价创年内新高。",
+          "url": "https://flash.jin10.com/detail/20260314040234290800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
+          "url": "https://flash.jin10.com/detail/20260314040028174800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时37分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -63,26 +91,26 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
-          "title": "美元指数收盘价创年内新高。",
-          "url": "https://flash.jin10.com/detail/20260314040234290800",
-          "source": "金十数据",
+          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3070022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "05时37分"
         },
         {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
+          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3070015",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "05时37分"
         }
       ]
     },
@@ -96,11 +124,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 05时37分]"
         }
       ]
     }
