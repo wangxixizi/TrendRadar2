@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T21:06:55.973714+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-03-13T22:45:44.411792+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时31分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 22时45分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时31分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
-          "url": "https://wallstreetcn.com/articles/3767392",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
         }
       ]
     },
@@ -142,6 +143,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     }
