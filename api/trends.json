@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:37:45.323630+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-03-14T16:40:31.723213+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 16时40分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
