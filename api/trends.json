@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T13:09:13.032299+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-03-15T15:03:18.845328+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 15时03分]"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -26,7 +26,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
