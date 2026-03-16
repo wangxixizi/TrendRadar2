@@ -1,56 +1,7 @@
 {
-  "generated_at": "2026-03-16T23:04:24.187567+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-03-17T01:05:56.189877+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股股指期货持续走高，纳指期货涨1.2%，标普500指数期货涨超1%，道指期货涨0.84%。",
-          "url": "https://wallstreetcn.com/livenews/3070934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "美元指数日内跌幅达0.5%，报99.99，跌破100关口。",
-          "url": "https://wallstreetcn.com/livenews/3070885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
-          "url": "https://wallstreetcn.com/livenews/3070375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
