@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-18T10:33:32.729557+08:00",
-  "total_titles_processed": 803,
-  "failed_sources": [],
+  "generated_at": "2026-03-18T13:00:57.284984+08:00",
+  "total_titles_processed": 963,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
@@ -16,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 13时00分]"
         },
         {
           "title": "美元指数17日下跌",
@@ -66,9 +68,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 13时00分]"
         }
       ]
     }
