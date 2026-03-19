@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:58:11.231640+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-03-19T14:02:34.141633+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 14时02分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -43,11 +43,12 @@
           "ranks": [
             16,
             18,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 12时58分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 14时02分]"
         }
       ]
     }
