@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:55:32.241293+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-03-20T15:02:15.542898+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时02分]"
         },
         {
           "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
