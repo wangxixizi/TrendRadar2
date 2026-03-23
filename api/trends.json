@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T06:37:29.501628+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-24T07:37:05.775612+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数23日下跌",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "美元指数跌超0.6%，日元一度涨向158",
