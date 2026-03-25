@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-26T06:40:56.090126+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-26T07:40:13.506496+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
         {
           "title": "美元指数25日上涨",
           "url": "https://flash.jin10.com/detail/20260326043313899800",
