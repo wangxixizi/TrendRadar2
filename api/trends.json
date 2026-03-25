@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:06:10.098698+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-25T15:55:50.779858+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -101,19 +101,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时08分 ~ 14时06分]"
+          "appearance_count": 12,
+          "time_info": "[03时08分 ~ 15时55分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
           "url": "https://www.cls.cn/detail/2323662",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 15时55分]"
         },
         {
           "title": "Anthropic宣布，大模型Claude现在可以自主做出权限决策。 为Claude Code推出“自动模式”（Auto Model）。 安全防护机制将在操作执行前进行预监测。 现已作为“研究预览版”面向团队版（Team Plan）用户开放。 将在未来几天内推送到企业版（Enterprise Plan）和API用户。",
