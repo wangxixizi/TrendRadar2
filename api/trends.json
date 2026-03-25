@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:19:28.416005+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2026-03-25T23:45:01.004829+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "受伊朗发电厂遭袭击报道影响，美元指数DXY升至日内高位。",
+          "url": "https://flash.jin10.com/detail/20260325232144923800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
