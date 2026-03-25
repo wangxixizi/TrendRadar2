@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T10:32:45.829102+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-25T12:58:09.311913+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 12时58分]"
         },
         {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
@@ -101,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时08分 ~ 10时32分]"
+          "appearance_count": 9,
+          "time_info": "[03时08分 ~ 12时58分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
@@ -111,7 +111,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
