@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T13:10:02.701768+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-26T15:15:07.165583+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时39分 ~ 15时15分]"
         },
         {
           "title": "美元指数25日上涨",
@@ -62,7 +62,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -78,11 +78,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 13时10分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时15分]"
         }
       ]
     }
