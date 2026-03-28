@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-03-28T23:36:00.013944+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-03-29T00:39:30.230982+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "keyword_group": "Claude",
+      "match_count": 1,
       "titles": [
         {
-          "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
-          "url": "https://wallstreetcn.com/livenews/3078430",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
+          "url": "https://www.zhihu.com/question/2020874143453725371",
+          "source": "知乎",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
-          "url": "https://flash.jin10.com/detail/20260328020020260800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "彭博美元指数本周涨0.7%，日元跌超0.6%失守160",
-          "url": "https://wallstreetcn.com/livenews/3078458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "00时39分"
         }
       ]
     }
