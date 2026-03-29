@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T23:36:47.258926+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-03-30T00:40:19.973398+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -9,57 +9,25 @@
       "titles": [
         {
           "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "DeepSeek“崩了”",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            7
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 的下一个模型 Claude Mythos？",
-          "url": "https://www.zhihu.com/question/2020874143453725371",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时33分]"
-        },
-        {
-          "title": "过于火爆！Anthropic算力吃紧，本周限制Claude用户高峰时段用量",
-          "url": "https://wallstreetcn.com/articles/3768640",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时15分]"
+          "time_info": "00时40分"
         }
       ]
     },
@@ -72,13 +40,11 @@
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时09分 ~ 23时36分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
