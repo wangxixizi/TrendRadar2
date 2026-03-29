@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-03-29T22:37:42.675631+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-29T23:36:47.258926+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时36分]"
+        },
+        {
+          "title": "DeepSeek“崩了”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "Claude",
       "match_count": 2,
@@ -35,23 +64,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
       "titles": [
@@ -65,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时09分 ~ 22时37分]"
+          "appearance_count": 10,
+          "time_info": "[15时09分 ~ 23时36分]"
         }
       ]
     }
