@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:54:55.917079+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-03-31T21:27:39.078687+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时39分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时39分 ~ 21时27分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -147,7 +147,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -221,22 +221,24 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek服务中断一小时后恢复",
@@ -256,7 +258,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -286,7 +288,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Claude Code完整源代码疑似因npm配置失误遭泄露",
@@ -295,9 +297,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "Claude Code源码意外泄露",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     }
