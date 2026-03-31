@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T04:48:50.417359+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-01T05:51:34.954939+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时51分]"
         },
         {
           "title": "美元指数DXY短线走低30点，现报99.89。",
@@ -48,7 +48,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时51分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -113,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时51分]"
         }
       ]
     }
