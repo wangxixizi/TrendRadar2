@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-31T15:21:27.964690+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-03-31T17:05:50.463067+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 14,
       "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 17时05分]"
+        },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
           "url": "https://www.cls.cn/detail/2329769",
@@ -20,17 +32,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时40分 ~ 15时21分]"
-        },
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时39分 ~ 15时21分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -175,7 +176,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -190,6 +191,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 07时39分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     }
