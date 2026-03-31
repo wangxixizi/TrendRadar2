@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-31T10:41:36.826255+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-03-31T13:13:18.383612+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 14,
       "titles": [
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 06时41分]"
-        },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
           "url": "https://www.cls.cn/detail/2329769",
@@ -28,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 10时41分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 13时13分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -39,8 +28,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 13时13分]"
+        },
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 06时41分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
