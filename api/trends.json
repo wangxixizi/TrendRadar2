@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T13:13:18.383612+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-31T15:21:27.964690+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[06时40分 ~ 15时21分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -28,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 15时21分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
