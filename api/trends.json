@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-02T06:42:00.717884+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-04-02T07:40:20.459337+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时40分]"
+        },
         {
           "title": "美股三大指数高开 耐克跌超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
@@ -19,17 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时00分 ~ 03时15分]"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 06时42分]"
         },
         {
           "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
@@ -102,11 +103,12 @@
             14,
             17,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "ClaudeCode源码泄露",
@@ -120,8 +122,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -131,11 +133,27 @@
             17,
             16,
             15,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
+        },
+        {
+          "title": "Claude Code源码分析与复刻实现",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            20,
+            17,
+            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -145,11 +163,12 @@
             21,
             16,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -163,22 +182,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
-        },
-        {
-          "title": "Claude Code源码分析与复刻实现",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E5%88%BB%E5%AE%9E%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时40分]"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
