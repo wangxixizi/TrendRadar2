@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T17:11:08.187275+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-01T19:02:15.649525+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -135,8 +135,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时38分 ~ 17时11分]"
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 19时02分]"
         },
         {
           "title": "深度解析Claude源码泄漏",
@@ -168,22 +168,24 @@
           "url": "https://www.douyin.com/hot/2451216",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时02分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时10分 ~ 19时02分]"
         },
         {
           "title": "Anthropic意外泄露了Claude AI智能体的源代码",
@@ -192,7 +194,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -223,8 +225,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 17时11分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 19时02分]"
         }
       ]
     }
