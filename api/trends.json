@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:53:25.092340+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-04-03T03:02:31.047801+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -24,22 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
-        },
-        {
-          "title": "从泄露源码扒出Claude隐藏彩蛋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -47,11 +37,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
+        },
+        {
+          "title": "从泄露源码扒出Claude隐藏彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -59,11 +62,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         }
       ]
     },
@@ -77,11 +81,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         }
       ]
     },
@@ -98,8 +103,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 03时02分]"
         }
       ]
     }
