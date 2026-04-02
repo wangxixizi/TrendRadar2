@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:36:15.340728+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-04-03T07:39:43.688375+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://www.cls.cn/detail/2334066",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
+          "appearance_count": 3,
+          "time_info": "[06时35分 ~ 07时39分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时39分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -108,11 +109,12 @@
             22,
             12,
             17,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时39分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -125,8 +127,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时39分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -140,8 +142,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时39分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -152,11 +154,12 @@
             22,
             18,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时39分]"
         }
       ]
     },
