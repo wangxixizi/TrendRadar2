@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:57:03.313931+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-04-03T19:40:47.353100+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -180,8 +180,19 @@
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Gemma4与Qwen3.6有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=Gemma4%E4%B8%8EQwen3.6%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
         {
           "title": "如何评价 qwen 3.6 转向闭源？",
           "url": "https://www.zhihu.com/question/2022382258535809067",
