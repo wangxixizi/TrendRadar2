@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:08:57.473218+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-04-03T15:15:43.434830+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时35分 ~ 13时08分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 15时15分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -116,8 +116,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 13时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时15分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
