@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-03T07:39:43.688375+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-04-03T10:39:30.260387+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 6,
       "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 10时39分]"
+        },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
@@ -21,18 +34,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 06时36分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时39分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -96,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 10时39分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -110,11 +111,12 @@
             12,
             17,
             26,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 10时39分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -124,11 +126,12 @@
             18,
             19,
             14,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 10时39分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
