@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T03:41:15.130266+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-04-04T04:41:15.653594+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 04时41分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -43,11 +44,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 04时41分]"
         }
       ]
     },
