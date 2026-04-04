@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T21:03:23.592121+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-04-04T22:37:06.802460+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             6,
             5,
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 21时03分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 22时37分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
