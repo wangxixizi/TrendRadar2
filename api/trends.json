@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T14:00:28.644615+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-04-04T15:20:48.561042+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时45分 ~ 12时53分]"
+        },
+        {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
@@ -46,6 +57,17 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "ClaudeCode底层技术拆解",
           "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -55,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "如何解读 claude code 代码？",
+          "url": "https://www.zhihu.com/question/2022418574258520852",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
