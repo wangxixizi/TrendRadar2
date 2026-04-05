@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T01:36:18.256817+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-04-06T02:51:37.010659+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时51分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时51分]"
         }
       ]
     }
