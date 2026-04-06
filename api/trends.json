@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-06T13:29:15.685441+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-04-06T15:49:59.689374+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美元指数DXY回落至100下方，日内跌0.19%。",
+          "url": "https://flash.jin10.com/detail/20260406153716422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3082682",
