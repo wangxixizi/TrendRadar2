@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T05:41:40.259290+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-04-07T06:41:11.845155+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时51分]"
+        },
+        {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20260407045506023800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时41分]"
         },
         {
           "title": "标普500指数涨幅收窄至0.2%。 据Axios报道，一名以色列官员透露，以色列总理内塔尼亚胡上周日在与特朗普的通话中敦促特朗普暂时不要寻求停火，并对这一举措可能带来的风险表示担忧。",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时41分]"
-        },
-        {
-          "title": "美元指数6日下跌",
-          "url": "https://flash.jin10.com/detail/20260407045506023800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         },
         {
           "title": "标普500指数目前涨0.32%，布伦特原油跌破109美元/桶关口，报108.94美元/桶。 伊朗最高领袖穆杰塔巴称，（美国和以色列的）“暗杀和犯罪行为”不会扰乱伊朗武装部队。",
