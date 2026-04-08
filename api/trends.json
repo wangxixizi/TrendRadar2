@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T20:02:17.635506+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-04-08T21:58:51.524327+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美元指数7日下跌",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美股三大指数大幅高开 纳指涨3.65%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
@@ -145,11 +156,12 @@
             23,
             17,
             19,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 20时02分]"
+          "appearance_count": 17,
+          "time_info": "[01时04分 ~ 21时58分]"
         },
         {
           "title": "UP主解读Claude新模型Mythos",
