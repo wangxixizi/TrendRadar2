@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T05:49:36.276080+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-04-10T06:45:35.542539+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -16,8 +16,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时45分]"
+        },
+        {
+          "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -73,7 +84,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
