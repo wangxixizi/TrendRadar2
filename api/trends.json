@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T10:38:09.586588+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-04-09T13:13:34.270569+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 10时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 13时13分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 10时38分]"
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 13时13分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -208,8 +208,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 13时13分]"
         }
       ]
     }
