@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T15:29:05.637786+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-09T17:13:54.291757+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时04分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 17时13分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -152,7 +153,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -220,8 +221,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 15时29分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 17时13分]"
         }
       ]
     }
