@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:53:55.142351+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-11T02:59:55.570035+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时59分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -26,8 +26,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时59分]"
         }
       ]
     }
