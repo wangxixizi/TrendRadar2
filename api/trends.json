@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-04-12T23:39:58.400343+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-04-13T00:44:03.473287+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
-          "url": "https://wallstreetcn.com/livenews/3086308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 13时27分]"
-        },
-        {
-          "title": "你们有哪些好的 claude code skills 推荐？",
-          "url": "https://www.zhihu.com/question/2016657901549266060",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
