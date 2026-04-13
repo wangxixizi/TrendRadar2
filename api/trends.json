@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T20:06:20.651823+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-13T22:53:11.254019+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元指数走高之际，非美货币普跌，欧元兑美元下跌0.49%，报1.1666；英镑兑美元下跌0.47%，报1.3396；澳元兑美元下跌0.76%，报0.7016；纽元兑美元下跌0.7%，报0.5799。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌2.59美元/桶，报100.54美元/桶；布伦特原油5分钟内下跌2.69美元/桶，报98.93美元/桶。 纳斯达克100指数转涨，标普500指数接近转涨，道指跌幅收窄至0.45%。欧洲斯托克600指数收窄跌幅至0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3087010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     }
