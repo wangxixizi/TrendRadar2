@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:46:01.898741+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-04-16T07:46:08.113630+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时46分]"
         },
         {
           "title": "美元指数15日下跌",
@@ -97,11 +98,12 @@
             10,
             29,
             28,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时46分]"
         }
       ]
     }
