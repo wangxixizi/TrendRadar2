@@ -1,162 +1,39 @@
 {
-  "generated_at": "2026-04-15T23:09:10.853953+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-04-16T01:09:17.888621+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 8,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "周二（4月14日）纽约尾盘，ICE美元指数跌0.24%，报98.130点，日内交投区间为98.414-97.969点。 彭博美元指数跌0.27%，报1193.27点，日内交投区间为1196.82-1191.39点。 美元兑日元跌0.37%，报158.87日元，日内交投区间为159.46-158.60日元。 欧元兑日元跌0.09%，英镑兑日元涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3087941",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek招人去内蒙草原“守机房”",
+          "url": "https://www.toutiao.com/trending/7628152198593691675/",
+          "source": "今日头条",
           "ranks": [
-            4
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美股三大指数集体高开，量子计算概念股普涨",
-          "url": "https://wallstreetcn.com/livenews/3088564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
+      "match_count": 1,
+      "titles": [
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2345247",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 23时09分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
-          "url": "https://wallstreetcn.com/livenews/3087965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时00分]"
-        },
-        {
-          "title": "美股三大指数小幅高开 耐克涨近2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E6%B6%A8%E8%BF%912%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时08分 ~ 23时09分]"
-        },
-        {
-          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
-          "url": "https://flash.jin10.com/detail/20260415213245498800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3087963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美元指数DXY短线上扬，最新报98.14。",
-          "url": "https://flash.jin10.com/detail/20260415170711615800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时14分 ~ 17时25分]"
-        },
-        {
-          "title": "DeepSeek招人去内蒙草原“守机房”",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E4%BA%BA%E5%8E%BB%E5%86%85%E8%92%99%E8%8D%89%E5%8E%9F%E2%80%9C%E5%AE%88%E6%9C%BA%E6%88%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 23时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Claude：Claude Code中的“例程”（routines）现已进入研究预览阶段。只需配置一次例程（包括提示词、代码仓库以及连接器），它即可按计划调度运行、通过API调用触发，或根据事件自动执行。例程运行在Web基础设施上，因此无需保持本地电脑开启。",
-          "url": "https://flash.jin10.com/detail/20260415004937638800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "据The Information：Anthropic将Claude Enterprise改为按使用量计费，导致重度用户成本上升。",
-          "url": "https://flash.jin10.com/detail/20260415061241772800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时48分]"
+          "time_info": "01时09分"
         }
       ]
     }
