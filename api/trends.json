@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:55:09.840920+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-04-16T23:44:07.770480+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -90,9 +90,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
+          "url": "https://wallstreetcn.com/livenews/3089460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美股三大指数开盘走高，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。甲骨文涨超3%，公司宣布与AWS合作。核电股普涨，Oklo涨超8%，Nano Nuclear Energy涨超6%。台积电跌超1%，此前发布一季度业绩。雅培下跌4.5%，创下2023年以来最低盘中水平。“硅谷足力健”Allbirds开盘跌17%，此前曾飙升582%。",
@@ -101,7 +112,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -112,7 +123,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         }
@@ -138,11 +149,12 @@
           "url": "https://www.douyin.com/hot/2468481",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 23时44分]"
         }
       ]
     },
@@ -169,6 +181,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时09分 ~ 19时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【阿里通义实验室开源Qwen3.6-35B-A3B模型】4月16日，阿里通义实验室宣布Qwen3.6-35B-A3B开源。据介绍，这是一款采用稀疏混合专家（MoE）架构的高效模型：总参数350亿，每次推理仅激活30亿参数。在智能体编程上，Qwen3.6-35B-A3B大幅超越前代Qwen3.5-35B-A3B，并可与Qwen3.5-27B、Gemma-31B等体量更大的稠密模型一较高下，同时可兼容OpenClaw、Claude Code、Qwen Code等主流编程助手。",
+          "url": "https://wallstreetcn.com/livenews/3089467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     }
