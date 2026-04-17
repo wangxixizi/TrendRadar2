@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T21:54:09.309238+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-04-17T22:59:48.350808+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
@@ -55,6 +55,17 @@
           "time_info": "[04时54分 ~ 05时48分]"
         },
         {
+          "title": "人民币兑美元汇率创 3 年新高，标普和纳斯达克指数亦创历史新高，对此你怎么看，当下市场为何如此乐观？",
+          "url": "https://www.zhihu.com/question/2028392837834645507",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "彭博美元指数涨幅扩大，报道称，海湾国家与欧洲官员们认为，美国需要六个月时间才能与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3089494",
           "source": "华尔街见闻-快讯",
@@ -94,7 +105,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -105,7 +116,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         }
