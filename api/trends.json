@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:44:10.992341+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-17T10:51:23.367878+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.99%，暂报2636.68点，整体持续走高，北京时间21:27以来出现一波尖锐的V形走势。 MarketVectorTM数字资产100中盘指数涨4.54%，报2910.95点。 MarketVector数字资产100指数涨0.44%，报14848.38点。 目前，Solana涨0.60%，狗狗币涨0.90%，XRP涨1.65%。 比特币跌0.98%，暂报74240美元；以太坊跌2.34%，暂报2318.11美元。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "StoneX分析师：美元指数可能出现小幅上涨",
+          "url": "https://flash.jin10.com/detail/20260417101704485800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
