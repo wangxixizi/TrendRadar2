@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:40:14.578624+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-19T06:39:35.610379+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 06时39分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -43,11 +43,12 @@
           "ranks": [
             18,
             15,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 06时39分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "ranks": [
             21,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 06时39分]"
         }
       ]
     }
