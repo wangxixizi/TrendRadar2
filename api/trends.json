@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:43:00.595299+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-04-20T05:40:40.634022+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -28,11 +29,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时40分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -43,8 +45,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时40分]"
         }
       ]
     },
@@ -61,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 05时40分]"
         }
       ]
     }
