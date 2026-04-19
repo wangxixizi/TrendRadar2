@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T13:35:54.148459+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-04-19T15:25:44.769257+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -38,9 +38,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时25分]"
+        },
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时25分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -48,22 +60,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 13时35分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -72,9 +74,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 15时25分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
