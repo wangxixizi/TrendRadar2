@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:52:56.873375+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-22T06:41:24.082587+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 06时41分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
@@ -30,6 +30,18 @@
           "time_info": "01时09分"
         },
         {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时41分]"
+        },
+        {
           "title": "标普500指数期货收复部分跌幅，现跌0.3%，此前美国总统特朗普表示将延长美伊之间的停火协议。",
           "url": "https://flash.jin10.com/detail/20260422043021208800",
           "source": "金十数据",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
-          "url": "https://www.cls.cn/detail/2351396",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
