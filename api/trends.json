@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:49:47.797873+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-04-22T23:18:39.000993+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -38,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
+          "url": "https://wallstreetcn.com/articles/3770587",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社，伊朗收到“一些信号”暗示美国准备破除封锁。 国际原油价格短线走低，布油、WTI日内跌超1%；现货黄金短线拉升，日内涨超1%；美元指数走低，日内跌0.15%。",
@@ -93,7 +104,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
