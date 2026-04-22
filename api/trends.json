@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:39:09.673288+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-22T10:51:10.571740+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时52分 ~ 07时39分]"
+          "appearance_count": 6,
+          "time_info": "[05时52分 ~ 10时51分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.80%，暂报2611.33点，整体保持上涨状态，北京时间19:37涨至2646.76点刷新日高。 MarketVectorTM数字资产100中盘指数涨1.84%，报2881.90点。 MarketVector数字资产100指数涨0.75%，报15082.87点。 目前，Solana跌0.07%，狗狗币跌0.69%，XRP持平。 比特币跌0.46%，暂报75942.84美元；以太坊跌0.80%，暂报2312.33美元。",
@@ -110,7 +110,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         }
