@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T06:51:38.923509+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-04-24T07:51:50.166170+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2354164",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时51分]"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -150,11 +151,12 @@
             8,
             5,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 06时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 07时51分]"
         }
       ]
     }
