@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T19:14:11.208135+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-04-23T21:53:12.010449+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -106,6 +106,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 10时54分]"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
