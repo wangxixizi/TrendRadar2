@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T07:54:13.278317+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-23T10:54:09.003650+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -104,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 10时54分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
@@ -117,6 +117,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里云：Qwen3.6-27B正式开源",
+          "url": "https://flash.jin10.com/detail/20260423102347282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
