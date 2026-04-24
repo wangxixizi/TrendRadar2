@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T06:43:25.035648+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-04-25T07:43:18.897329+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -41,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -53,11 +54,12 @@
             1,
             4,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -73,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -87,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -98,11 +100,12 @@
             13,
             22,
             25,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -113,11 +116,12 @@
             20,
             19,
             24,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -130,8 +134,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -139,11 +143,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时43分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -201,11 +206,34 @@
           "url": "https://wallstreetcn.com/articles/3770812",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时43分]"
+        },
+        {
+          "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
+          "url": "https://wallstreetcn.com/articles/3770791",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
+          "url": "https://wallstreetcn.com/articles/3770793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -242,11 +270,12 @@
           "ranks": [
             3,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 07时43分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
