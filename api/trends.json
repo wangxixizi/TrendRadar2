@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:52:42.555189+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-25T02:58:59.832666+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -47,11 +47,25 @@
           "source": "知乎",
           "ranks": [
             1,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
@@ -77,28 +91,17 @@
           "time_info": "[00时07分 ~ 01时52分]"
         },
         {
-          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
-          "url": "https://www.cls.cn/detail/2354937",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
-        },
-        {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
           "ranks": [
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -106,22 +109,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -132,8 +137,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -143,8 +148,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -155,8 +160,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -164,11 +169,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4 发布",
