@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:55:21.933197+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-04-25T19:41:52.919384+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 19时41分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -75,6 +75,21 @@
           "time_info": "[00时07分 ~ 07时43分]"
         },
         {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8,
+            12,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 19时41分]"
+        },
+        {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
           "url": "https://www.cls.cn/detail/2354937",
           "source": "财联社热门",
@@ -101,20 +116,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时52分 ~ 16时58分]"
-        },
-        {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 18时55分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -151,6 +152,21 @@
           "time_info": "[00时07分 ~ 10时43分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 19时41分]"
+        },
+        {
           "title": "DeepSeek V4强在哪里",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "bilibili 热搜",
@@ -178,21 +194,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 10时43分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 18时55分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -263,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -442,11 +454,12 @@
             9,
             11,
             13,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 18时55分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 19时41分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
