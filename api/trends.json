@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:50:35.559423+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-04-26T04:43:33.039002+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时43分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -68,8 +69,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时43分]"
         }
       ]
     }
