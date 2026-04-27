@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T06:57:22.731966+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-04-28T07:58:48.678068+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 07时58分]"
         },
         {
           "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
@@ -107,11 +107,12 @@
             17,
             5,
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 07时58分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -120,11 +121,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 07时58分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
