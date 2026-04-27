@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-28T05:56:30.051986+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-28T06:57:22.731966+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 7,
       "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时57分]"
+        },
         {
           "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
           "url": "https://wallstreetcn.com/livenews/3095167",
@@ -19,29 +33,17 @@
           "time_info": "02时06分"
         },
         {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时56分]"
-        },
-        {
           "title": "美元指数27日下跌",
           "url": "https://flash.jin10.com/detail/20260428034651678800",
           "source": "金十数据",
           "ranks": [
             3,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时10分 ~ 06时57分]"
         },
         {
           "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
@@ -54,6 +56,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时56分]"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时57分]"
         },
         {
           "title": "美股三大指数集体低开 高通涨逾6%",
@@ -77,17 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3095225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         }
       ]
     },
@@ -103,11 +106,12 @@
             18,
             17,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时57分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -115,11 +119,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时57分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -128,7 +133,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         }
