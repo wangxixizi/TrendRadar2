@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T14:32:09.612973+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-04-30T17:14:57.983286+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 14时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 17时14分]"
         },
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
