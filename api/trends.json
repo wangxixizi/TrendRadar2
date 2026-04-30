@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T04:11:23.100237+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-05-01T05:59:35.955533+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时11分]"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -40,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -50,6 +37,19 @@
           "ranks": [
             11,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -68,7 +68,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -79,7 +79,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         }
