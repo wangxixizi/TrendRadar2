@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:59:35.955533+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-05-01T07:02:32.889898+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 07时02分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
