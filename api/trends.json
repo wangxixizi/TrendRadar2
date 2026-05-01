@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T11:41:00.386410+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-05-01T14:40:28.185577+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 11时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 14时40分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -57,13 +58,24 @@
           "time_info": "[00时23分 ~ 04时11分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
           "url": "https://flash.jin10.com/detail/20260501103248247800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
@@ -102,7 +114,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
