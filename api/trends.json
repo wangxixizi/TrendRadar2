@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T16:22:37.507940+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-05-02T18:02:13.832506+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,19 @@
           "time_info": "[00时03分 ~ 16时22分]"
         },
         {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 18时02分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -113,18 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时10分 ~ 16时22分]"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek 现在我是你爹了",
