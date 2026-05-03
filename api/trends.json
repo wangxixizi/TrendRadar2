@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T14:31:54.115852+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-03T16:50:57.863524+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 11时33分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         }
       ]
     }
