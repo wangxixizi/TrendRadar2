@@ -1,41 +1,22 @@
 {
-  "generated_at": "2026-05-04T22:09:33.050051+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-05-05T00:49:52.477697+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 17时23分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%，游戏驿站（GameStop）提议以560亿美元收购eBay。",
-          "url": "https://wallstreetcn.com/livenews/3098500",
+          "title": "彭博美元指数涨0.3%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3098558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "00时49分"
         }
       ]
     }
