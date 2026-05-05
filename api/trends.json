@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T00:38:47.328870+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-06T02:14:33.196519+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时14分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时14分]"
         }
       ]
     },
@@ -36,22 +36,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "从0开始了解Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
           "url": "https://wallstreetcn.com/articles/3771572",
           "source": "华尔街见闻",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时14分]"
+        },
+        {
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -68,11 +68,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时14分]"
         }
       ]
     }
