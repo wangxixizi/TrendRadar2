@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:57:51.295391+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-05-05T11:32:13.267272+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "彭博美元指数涨0.3%，刷新日高。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
