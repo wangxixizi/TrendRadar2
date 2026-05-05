@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T11:32:13.267272+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-05-05T14:20:13.628232+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时20分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
