@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T04:21:52.552571+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-06T06:04:19.039820+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 06时04分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 06时04分]"
         },
         {
           "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
@@ -36,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
@@ -52,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 06时04分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -67,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 06时04分]"
         }
       ]
     },
@@ -83,11 +85,12 @@
           "ranks": [
             12,
             16,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 06时04分]"
         }
       ]
     }
