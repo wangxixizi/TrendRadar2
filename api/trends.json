@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T19:50:53.508058+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-05-06T22:22:58.564484+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 19时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 22时22分]"
         },
         {
           "title": "DeepSeek被曝投后估值或达450亿美元",
@@ -84,7 +84,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -107,8 +107,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 22时22分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
