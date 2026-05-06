@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-06T08:01:19.856673+08:00",
-  "total_titles_processed": 621,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-05-06T11:30:23.582372+08:00",
+  "total_titles_processed": 816,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
@@ -57,11 +55,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 11时30分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -70,11 +69,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 11时30分]"
         }
       ]
     },
@@ -91,11 +91,12 @@
             16,
             21,
             19,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 08时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 11时30分]"
         }
       ]
     }
