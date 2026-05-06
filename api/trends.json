@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T00:45:12.857164+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-07T02:20:11.231405+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时20分]"
         },
         {
           "title": "Anthropic：将Claude代码的五小时限额翻倍，适用于Pro、Max、Team和基于座位的企业计划。",
@@ -36,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         }
@@ -65,8 +66,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时20分]"
         }
       ]
     }
