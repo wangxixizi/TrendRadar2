@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-06T06:04:19.039820+08:00",
-  "total_titles_processed": 543,
-  "failed_sources": [],
+  "generated_at": "2026-05-06T08:01:19.856673+08:00",
+  "total_titles_processed": 621,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
@@ -12,11 +14,12 @@
           "url": "https://www.cls.cn/detail/2362725",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时01分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
@@ -57,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时01分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -66,11 +69,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 08时01分]"
         }
       ]
     },
@@ -86,11 +90,12 @@
             12,
             16,
             21,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 08时01分]"
         }
       ]
     }
