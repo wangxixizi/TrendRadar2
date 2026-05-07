@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T11:58:23.037747+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-07T14:46:41.841817+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 14时46分]"
         },
         {
           "title": "不差钱到主动融资DeepSeek经历了什么",
@@ -93,7 +93,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
