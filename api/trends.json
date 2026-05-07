@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T07:01:45.745993+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-07T08:01:49.288808+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 08时01分]"
         },
         {
           "title": "Anthropic：取消Pro和Max账户在Claude Code上的高峰期额度削减；同时提高Claude Opus模型的API速率限制。",
@@ -58,6 +58,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 08时01分]"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 2,
       "titles": [
@@ -83,26 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时01分]"
         }
       ]
     }
