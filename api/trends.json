@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:58:02.849132+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-05-09T21:41:00.273064+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时58分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时58分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -42,11 +42,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时58分]"
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时41分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -54,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
