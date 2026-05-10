@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:53:17.457346+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-05-11T07:56:08.044164+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时56分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -26,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -40,8 +42,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时56分]"
         }
       ]
     },
