@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:19:45.569300+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-05-10T19:55:23.031945+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 19时55分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
