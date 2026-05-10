@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T22:57:14.781966+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-05-10T23:59:15.212066+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 22时57分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 23时59分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -37,6 +38,18 @@
           "time_info": "[11时36分 ~ 18时19分]"
         },
         {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -47,17 +60,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时36分 ~ 18时19分]"
-        },
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 22时57分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
