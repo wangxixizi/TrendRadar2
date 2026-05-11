@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T07:56:08.044164+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-11T11:51:02.243486+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
@@ -28,28 +28,30 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 11时51分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 11时51分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 05时52分]"
+        },
+        {
+          "title": "特朗普称伊朗最新关于和平计划的回应不可接受，伊朗方面称其拒绝了美国提出的方案，嘉盛市场情绪指数显示，美国原油维持空头占优......后市情绪如何变化？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260511105125467800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     }
