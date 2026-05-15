@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-16T03:43:11.530837+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-05-16T05:05:56.440301+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
+          "url": "https://wallstreetcn.com/livenews/3104599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时05分]"
+        },
+        {
+          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
+          "url": "https://wallstreetcn.com/livenews/3104626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美股收盘：三大指数收低 科技股显著回调",
+          "url": "https://flash.jin10.com/detail/20260516040037420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -15,25 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
-          "url": "https://wallstreetcn.com/livenews/3104599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 05时05分]"
         }
       ]
     },
