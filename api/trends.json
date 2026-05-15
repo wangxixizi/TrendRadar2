@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T05:05:56.440301+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-16T06:58:21.333080+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
@@ -24,22 +24,35 @@
           "url": "https://wallstreetcn.com/livenews/3104626",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 06时58分]"
         },
         {
           "title": "美股收盘：三大指数收低 科技股显著回调",
           "url": "https://flash.jin10.com/detail/20260516040037420800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 06时58分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "06时58分"
         }
       ]
     },
@@ -52,11 +65,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 06时58分]"
         }
       ]
     },
