@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:55:31.347987+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-05-16T21:38:54.262410+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时58分 ~ 19时55分]"
+          "appearance_count": 8,
+          "time_info": "[06时58分 ~ 21时38分]"
         },
         {
           "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
@@ -104,7 +105,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -131,6 +132,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时50分 ~ 19时55分]"
+        },
+        {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
