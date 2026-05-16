@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-05-16T21:38:54.262410+08:00",
-  "total_titles_processed": 1293,
-  "failed_sources": [],
+  "generated_at": "2026-05-16T23:02:11.941007+08:00",
+  "total_titles_processed": 1374,
+  "failed_sources": [
+    "toutiao",
+    "wallstreetcn-hot",
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
@@ -18,8 +22,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时58分 ~ 21时38分]"
+          "appearance_count": 10,
+          "time_info": "[06时58分 ~ 23时02分]"
         },
         {
           "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
@@ -138,11 +142,12 @@
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时02分]"
         }
       ]
     },
