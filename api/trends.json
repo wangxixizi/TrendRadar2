@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-05-17T23:01:23.939512+08:00",
-  "total_titles_processed": 1244,
-  "failed_sources": [
-    "douyin",
-    "zhihu"
-  ],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 21时27分]"
-        }
-      ]
-    }
-  ],
+  "generated_at": "2026-05-18T00:05:57.555462+08:00",
+  "total_titles_processed": 315,
+  "failed_sources": [],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
