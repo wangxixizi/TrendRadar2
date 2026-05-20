@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T15:50:31.039074+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-05-20T18:55:01.456251+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 18时55分]"
         },
         {
           "title": "周二（5月19日），美股行业ETF多数收跌，航空业ETF收跌2.90%，金融业ETF、网络股指数ETF、可选消费ETF跌1.11%，半导体ETF跌0.4%，医疗业ETF涨1.1%，能源业ETF涨1.17%。",
