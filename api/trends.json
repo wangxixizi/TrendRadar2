@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:04:10.483161+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-23T19:15:02.019109+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -87,22 +87,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时15分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
           "url": "https://www.zhihu.com/question/2041154123677126717",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -111,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         }
