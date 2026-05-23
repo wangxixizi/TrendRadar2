@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:57:55.575325+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-24T06:01:25.768667+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 06时01分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -26,21 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
-        },
-        {
-          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3108395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 06时01分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -51,8 +38,22 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 06时01分]"
+        },
+        {
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时01分]"
         }
       ]
     }
