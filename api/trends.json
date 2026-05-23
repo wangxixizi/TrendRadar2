@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T07:04:21.974568+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-23T11:34:02.966830+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "周五（5月22日）纽约尾盘，ICE美元指数跌0.02%，报99.243点，本周累计下跌0.02%，交投区间为99.515-98.946点，整体出现三波V形走势。 彭博美元指数涨0.08%，报1202.61点，本周大致持平，交投区间为1205.25-1199.01点。 美元兑日元涨0.10%，报159.14日元，本周累涨0.24%，交投区间为158.54-159.34日元。",
@@ -29,12 +29,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
+        },
+        {
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -45,8 +78,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 07时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 11时34分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 11时34分]"
         }
       ]
     }
