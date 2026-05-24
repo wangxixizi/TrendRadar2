@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:23:06.611853+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-05-24T21:42:44.026373+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             5,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 21时42分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -44,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -65,11 +66,25 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 21时42分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 21时42分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -87,18 +102,6 @@
           "time_info": "[01时03分 ~ 07时02分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 19时23分]"
-        },
-        {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
@@ -106,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时42分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -119,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对于 Claude Code 的使用，有没有一套完整的开发工作流程可以参考？",
+          "url": "https://www.zhihu.com/question/1996665109376962786",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     }
