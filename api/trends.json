@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T05:58:10.131497+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-29T07:24:36.630478+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时24分]"
         },
         {
           "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
@@ -25,7 +25,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 07时24分]"
         }
       ]
     },
