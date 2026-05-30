@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:45:56.293690+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-05-30T23:11:42.039877+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 23时11分]"
+        },
+        {
           "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
           "url": "https://www.zhihu.com/question/2043515093007303790",
           "source": "知乎",
@@ -93,19 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 05时54分]"
-        },
-        {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 21时45分]"
         }
       ]
     },
