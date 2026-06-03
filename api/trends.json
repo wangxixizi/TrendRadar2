@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T12:25:21.848497+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-06-03T17:29:33.893382+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 17时29分]"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
