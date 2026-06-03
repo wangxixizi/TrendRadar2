@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-06-04T02:47:20.969288+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-04T05:52:48.850508+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -43,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 05时52分]"
+        },
+        {
+          "title": "美元指数3日上涨",
+          "url": "https://flash.jin10.com/detail/20260604044651294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "05时52分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
@@ -56,6 +39,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 05时52分]"
+        },
+        {
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 05时52分]"
         }
       ]
     }
