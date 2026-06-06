@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:48:50.637468+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-06-06T18:08:11.493900+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 15时48分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 18时08分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时08分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时08分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -60,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
