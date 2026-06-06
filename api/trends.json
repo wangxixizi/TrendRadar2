@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T00:09:01.655081+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-07T02:09:58.110466+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时09分]"
         }
       ]
     }
