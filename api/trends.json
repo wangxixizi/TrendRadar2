@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T17:25:56.704583+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-06-08T22:12:31.969318+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "美股开盘，道指涨0.26%，标普500指数涨0.79%，纳指涨1.39%。英特尔(INTC.O)涨11.5%，谷歌向其下单逾300万颗TPU。美国电池技术公司(ABAT.O)涨25.5%，此前公司赢得上诉、美国能源部为其项目恢复拨款。迈威尔科技(MRVL.O)涨9.6%。纳斯达克中国金龙指数涨0.53%。",
+          "url": "https://flash.jin10.com/detail/20260608213033883800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
