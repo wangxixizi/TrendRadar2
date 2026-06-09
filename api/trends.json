@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T17:52:04.584682+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-06-09T20:41:22.637937+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时42分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[06时42分 ~ 20时41分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
