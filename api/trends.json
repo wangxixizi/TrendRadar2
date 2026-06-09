@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T06:42:24.484951+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-06-09T08:09:47.417359+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时09分]"
+        },
+        {
+          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
+          "url": "https://www.cls.cn/detail/2394225",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时42分"
+          "time_info": "08时09分"
         },
         {
           "title": "周一（6月8日）纽约尾盘，ICE美元指数跌0.05%，报100.017点，日内交投区间为100.214-99.819点。 彭博美元指数跌0.06%，报1211.11点，日内交投区间为1212.94-1208.97点。 美元兑日元跌0.04%，报160.23日元，日内交投区间为160.39-159.86日元。",
@@ -34,11 +45,12 @@
           "url": "https://www.cls.cn/detail/2394207",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时09分]"
         },
         {
           "title": "周一（6月8日）纽约尾盘，彭博谷物分类指数涨0.22%，报29.4516点。 CBOT玉米期货跌0.22%，CBOT小麦期货涨0.30%。 CBOT大豆期货跌0.42%，报11.1675美元/蒲式耳，豆粕期货跌0.61%，豆油期货涨0.77%。 CBOT瘦肉猪期货跌1.52%，活牛期货跌2.20%，饲牛期货跌1.03%。",
@@ -50,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美股三大指数涨跌不一 芯片股反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E8%8A%AF%E7%89%87%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "美元指数8日下跌",
@@ -69,7 +92,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         }
