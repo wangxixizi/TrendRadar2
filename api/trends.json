@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T04:18:34.364056+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-14T06:07:33.781776+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时07分]"
         }
       ]
     },
@@ -57,11 +57,12 @@
           "url": "https://www.zhihu.com/question/1997586495188521827",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 06时07分]"
         }
       ]
     }
