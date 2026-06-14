@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-06-14T17:39:53.069488+08:00",
-  "total_titles_processed": 874,
-  "failed_sources": [],
+  "generated_at": "2026-06-14T20:01:35.858904+08:00",
+  "total_titles_processed": 1008,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "Claude",
@@ -42,11 +44,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 20时00分]"
         }
       ]
     },
