@@ -1,74 +1,7 @@
 {
-  "generated_at": "2026-06-14T22:23:40.709649+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-06-15T00:25:34.412108+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 Claude Fable 5 全球暂停访问？",
-          "url": "https://www.zhihu.com/question/2049072203191342205",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国突然限用Claude 5说明了什么",
-          "url": "https://www.toutiao.com/trending/7650833215002775103/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 20时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI Coding",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
-          "url": "https://www.zhihu.com/question/1997586495188521827",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 06时07分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
