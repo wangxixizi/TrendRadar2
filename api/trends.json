@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:16:09.908489+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-17T08:20:36.050625+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 08时20分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时43分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 08时20分]"
         }
       ]
     },
