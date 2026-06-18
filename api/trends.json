@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T17:17:19.925268+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-06-18T20:56:59.078129+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 20时56分]"
         },
         {
           "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
@@ -60,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -164,11 +164,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 20时56分]"
         }
       ]
     }
