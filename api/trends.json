@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-06-18T07:28:28.346633+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-18T12:16:06.440791+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时16分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时16分]"
+        },
+        {
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
         {
           "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
           "url": "https://wallstreetcn.com/livenews/3121179",
@@ -17,28 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
@@ -127,6 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         }
       ]
     }
