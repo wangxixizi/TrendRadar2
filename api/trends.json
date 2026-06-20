@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:06:53.807793+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-20T08:12:47.638077+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 08时12分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -36,22 +36,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时12分]"
         },
         {
           "title": "美元指数19日下跌",
           "url": "https://flash.jin10.com/detail/20260620035724024800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时12分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
