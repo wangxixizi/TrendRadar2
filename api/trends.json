@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T06:06:44.987753+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-23T08:10:32.697199+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 06时06分]"
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 08时10分]"
         }
       ]
     }
