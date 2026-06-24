@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T20:21:40.899667+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-06-24T23:34:41.630629+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 20时21分]"
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 23时34分]"
         },
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
