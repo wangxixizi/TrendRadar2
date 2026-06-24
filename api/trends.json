@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T13:04:13.262944+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-06-24T17:36:19.104908+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 17时36分]"
         },
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -90,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时36分]"
         },
         {
           "title": "彭博美元指数创2025年11月份以来盘中新高。",
@@ -209,8 +210,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 17时36分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -236,7 +237,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
