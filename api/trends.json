@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T16:02:13.608793+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-06-26T19:12:23.710266+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -108,11 +108,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek大规模招聘",
