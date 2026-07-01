@@ -1,12 +1,96 @@
 {
-  "generated_at": "2026-07-01T08:09:23.420741+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-07-01T13:24:51.270381+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "Claude",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Anthropic推出Claude Science助力科研自动化",
+          "url": "https://flash.jin10.com/detail/20260701011624752800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "Anthropic推出Claude Science，助力科研自动化",
+          "url": "https://wallstreetcn.com/livenews/3126932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 04时10分]"
+        },
+        {
+          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
+          "url": "https://www.zhihu.com/question/2055348161544295141",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
+          "url": "https://flash.jin10.com/detail/20260701010526378800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "Anthropic：我们已收到通知，美国商务部已解除对Claude Fable 5和Mythos 5的出口管制。我们将于明天开始恢复访问权限。",
+          "url": "https://flash.jin10.com/detail/20260701075439387800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "Anthropic推出Claude Sonnet 5，低价策略冲刺IPO",
+          "url": "https://wallstreetcn.com/livenews/3126941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时24分]"
+        },
         {
           "title": "美元指数30日上涨",
           "url": "https://flash.jin10.com/detail/20260701040422983800",
@@ -17,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
         },
         {
           "title": "美元指数在6月份涨超2.2%",
@@ -62,68 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Anthropic推出Claude Science助力科研自动化",
-          "url": "https://flash.jin10.com/detail/20260701011624752800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "Anthropic推出Claude Science，助力科研自动化",
-          "url": "https://wallstreetcn.com/livenews/3126932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时10分]"
-        },
-        {
-          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
-          "url": "https://flash.jin10.com/detail/20260701010526378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "Anthropic：我们已收到通知，美国商务部已解除对Claude Fable 5和Mythos 5的出口管制。我们将于明天开始恢复访问权限。",
-          "url": "https://flash.jin10.com/detail/20260701075439387800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "Anthropic推出Claude Sonnet 5，低价策略冲刺IPO",
-          "url": "https://wallstreetcn.com/livenews/3126941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
         }
       ]
     },
