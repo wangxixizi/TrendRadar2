@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T12:44:30.315340+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-07-03T16:12:51.646533+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -159,6 +159,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝阿里禁用Claude",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%98%BF%E9%87%8C%E7%A6%81%E7%94%A8Claude%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     }
