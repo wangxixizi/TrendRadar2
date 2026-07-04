@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-04T08:08:11.327358+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-07-04T12:38:13.618027+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Claude",
       "match_count": 4,
       "titles": [
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 08时08分]"
-        },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
           "url": "https://www.zhihu.com/question/2056394331271999624",
@@ -30,6 +17,19 @@
             16,
             14,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 12时38分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -90,6 +90,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 04时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         }
       ]
     }
