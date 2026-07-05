@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-05T23:15:43.058300+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-07-06T01:15:31.575882+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
