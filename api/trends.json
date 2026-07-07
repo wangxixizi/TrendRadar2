@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T06:17:10.663392+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-07-07T08:11:29.133581+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时11分]"
         },
         {
           "title": "周一（7月6日），彭博电动汽车价格回报指数涨0.01%，报3584.02点。 指数全天呈现出U形反转，北京时间10:00之前呈现出V形反转、10:04刷新日高至3590.43点，21:30美股开盘后快速地显著收复失地。",
@@ -75,7 +75,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
