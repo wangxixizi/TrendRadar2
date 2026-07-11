@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T16:50:13.530491+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-07-11T18:18:16.241939+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时07分 ~ 16时50分]"
+          "appearance_count": 9,
+          "time_info": "[08时07分 ~ 18时18分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
