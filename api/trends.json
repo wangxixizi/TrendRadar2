@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-12T21:26:14.829348+08:00",
-  "total_titles_processed": 1214,
-  "failed_sources": [],
+  "generated_at": "2026-07-12T23:01:54.276039+08:00",
+  "total_titles_processed": 1305,
+  "failed_sources": [
+    "bilibili-hot-search",
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek",
