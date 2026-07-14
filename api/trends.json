@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T16:11:18.947165+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-07-14T18:50:40.389383+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 16时11分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 18时50分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -110,6 +111,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 18时50分]"
+        },
+        {
+          "title": "DeepSeek首轮融资完成仅一个月后考虑启动新一轮融资",
+          "url": "https://flash.jin10.com/detail/20260714181228752800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 2,
       "titles": [
@@ -135,23 +165,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 16时11分]"
         }
       ]
     }
