@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T10:43:07.524910+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-07-14T13:34:37.606677+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时34分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -150,8 +150,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时34分]"
         }
       ]
     }
