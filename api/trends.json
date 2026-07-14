@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:18:50.250864+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:06:42.473979+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时06分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -36,22 +36,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
-          "url": "https://wallstreetcn.com/livenews/3133769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时06分]"
+        },
+        {
+          "title": "彭博美元指数跌幅收窄，美联储主席沃什正在讲话。 美国国债价格回吐涨幅，沃什淡化美国6月CPI通胀数据的意义。",
+          "url": "https://wallstreetcn.com/livenews/3133769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
