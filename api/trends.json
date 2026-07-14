@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T20:16:51.483747+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-07-14T22:55:27.451878+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 20时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时42分 ~ 22时55分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -122,11 +122,12 @@
           "ranks": [
             15,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时42分 ~ 20时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时42分 ~ 22时55分]"
         },
         {
           "title": "DeepSeek首轮融资完成仅一个月后考虑启动新一轮融资",
