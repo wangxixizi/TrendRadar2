@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T20:18:07.767657+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-07-15T22:54:14.907405+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -145,8 +145,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 20时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时54分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时54分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -158,18 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 20时18分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -208,6 +209,34 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
+          "title": "Stride下跌4%，Anthropic面向教师推出Claude。",
+          "url": "https://wallstreetcn.com/livenews/3133752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -221,23 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Stride下跌4%，Anthropic面向教师推出Claude。",
-          "url": "https://wallstreetcn.com/livenews/3133752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
         }
       ]
     }
