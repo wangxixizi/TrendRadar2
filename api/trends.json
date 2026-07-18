@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T15:56:09.248010+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-18T17:37:56.577119+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 17时37分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -141,8 +141,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
