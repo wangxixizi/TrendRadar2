@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T17:37:56.577119+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-07-18T19:07:00.218075+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时55分 ~ 19时07分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -129,7 +129,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -141,8 +141,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时55分 ~ 19时07分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
