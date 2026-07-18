@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:07:00.218075+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-07-18T21:22:09.864773+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时55分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[07时55分 ~ 21时22分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时15分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时22分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
