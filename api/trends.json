@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T02:00:57.876313+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-20T03:19:43.549239+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时19分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时19分]"
         },
         {
           "title": "用Deepseek生成战地游戏",
@@ -53,11 +54,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时19分]"
         }
       ]
     }
