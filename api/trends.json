@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:57:45.987519+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-07-19T11:21:54.415513+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 11时21分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
