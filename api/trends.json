@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-22T08:02:17.154964+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-22T12:19:52.070057+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时00分 ~ 12时19分]"
+        },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
@@ -17,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时14分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时19分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -30,17 +54,6 @@
           "time_info": "[07时00分 ~ 07时01分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时00分 ~ 08时02分]"
         },
         {
           "title": "周三（8月6日）纽约尾盘，彭博谷物分类指数涨0.42%，报32.19点。 CBOT玉米期货涨0.48%，CBOT小麦期货涨0.67%。 CBOT大豆期货跌0.33%，报12.2225美元/蒲式耳，豆粕期货涨1.43%，豆油期货跌0.78%。 CBOT瘦肉猪期货涨0.54%，活牛期货跌0.74%，饲牛期货跌0.74%。",
