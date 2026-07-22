@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T01:31:57.772257+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-23T03:25:41.698721+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时25分]"
+        },
         {
           "title": "吧友做梗图催更DeepSeekV4",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
@@ -15,19 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时25分]"
         }
       ]
     },
@@ -43,19 +44,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时25分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
           "url": "https://wallstreetcn.com/livenews/3138337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时25分]"
         }
       ]
     }
