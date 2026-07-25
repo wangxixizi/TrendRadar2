@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:56:36.448479+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-26T05:59:42.269922+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时59分]"
         }
       ]
     }
