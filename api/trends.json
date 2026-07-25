@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T15:20:48.857433+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-07-25T17:51:45.593660+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 17时51分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -48,11 +49,12 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 17时51分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -144,11 +146,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 17时51分]"
         },
         {
           "title": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5。",
