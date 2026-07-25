@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T17:51:45.593660+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-07-25T19:13:46.262707+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 17时51分]"
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 19时13分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -32,6 +32,21 @@
           "time_info": "[06时07分 ~ 08时07分]"
         },
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 19时13分]"
+        },
+        {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
           "url": "https://wallstreetcn.com/livenews/3139661",
           "source": "华尔街见闻-快讯",
@@ -41,20 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时06分 ~ 17时51分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
