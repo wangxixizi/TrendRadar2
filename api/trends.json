@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T04:18:49.589218+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-07-29T06:07:01.365241+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周二（7月28日）纽约尾盘，ICE美元指数跌0.14%，报101.396点，日内交投区间为101.640-101.258点。 彭博美元指数跌0.07%，报1221.38点，日内交投区间为1223.69-1220.08点。",
           "url": "https://wallstreetcn.com/livenews/3141174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 06时07分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.81%，暂报2083.86点，北京时间01:00以来持续下跌、06:00过后加速下跌，07:00以来低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.96%，报2384.07点。 MarketVector数字资产100指数跌1.30%，报12714.11点。 目前，Solana跌1.84%，狗狗币跌1.17%，XRP跌2.45%。 比特币跌1.43%，暂报63979.20美元；以太坊跌1.21%，暂报1924.37美元。",
@@ -31,15 +32,37 @@
           "time_info": "[01时32分 ~ 02时18分]"
         },
         {
+          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "美元指数28日下跌",
           "url": "https://flash.jin10.com/detail/20260729034612247800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         }
       ]
     },
@@ -55,8 +78,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 06时07分]"
         }
       ]
     }
