@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T05:08:52.799683+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-01T07:04:40.028813+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         },
@@ -47,11 +47,23 @@
           "ranks": [
             9,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时04分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -60,7 +72,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         },
@@ -71,9 +83,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "美元指数7月份跌超1.2%",
@@ -82,7 +105,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
         }
@@ -90,7 +113,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -98,11 +121,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时04分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -117,17 +141,29 @@
           "time_info": "[01时42分 ~ 03时38分]"
         },
         {
+          "title": "如何评价 Deepseek-V4-Flash 正式版？",
+          "url": "https://www.zhihu.com/question/2066525148576998707",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
             8,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 07时04分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -135,11 +171,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 05时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 07时04分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
