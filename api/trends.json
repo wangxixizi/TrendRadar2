@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T17:09:14.301445+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-08-01T19:19:04.718673+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时19分]"
+        },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
@@ -33,15 +45,17 @@
           "time_info": "[11时14分 ~ 14时32分]"
         },
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
           "source": "知乎",
           "ranks": [
-            2
+            5,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 19时19分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -55,18 +69,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 17时09分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时09分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -121,6 +123,17 @@
           "time_info": "[01时42分 ~ 11时14分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "DeepSeek V4 Flash对比",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%AF%B9%E6%AF%94",
           "source": "bilibili 热搜",
@@ -160,7 +173,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
@@ -179,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时04分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[07时04分 ~ 19时19分]"
         },
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
