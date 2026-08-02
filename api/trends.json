@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:27:32.093491+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-02T23:05:31.451522+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             9,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -50,7 +51,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
