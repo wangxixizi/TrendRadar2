@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:38:57.266506+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-08-05T20:56:14.591123+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -122,7 +122,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -163,13 +163,24 @@
           "time_info": "[00时56分 ~ 04时28分]"
         },
         {
+          "title": "DeepSeek和GPT AI牛马最佳组合",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%92%8CGPT%20AI%E7%89%9B%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "DeepSeek干完活自己写了个游戏",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
