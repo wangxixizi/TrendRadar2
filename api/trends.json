@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:56:21.003559+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-08-07T23:59:18.132297+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 22时56分]"
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时59分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -161,7 +161,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         }
