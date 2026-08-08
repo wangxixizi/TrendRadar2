@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-08-09T01:33:31.536222+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-08-09T02:41:33.308686+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
+          "url": "https://www.zhihu.com/question/2069133357099832441",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
@@ -15,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时41分]"
         }
       ]
     }
