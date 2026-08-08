@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T07:37:01.933465+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-08-08T09:49:49.085111+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 09时49分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -59,7 +59,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -78,11 +78,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时44分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[04时44分 ~ 09时49分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
