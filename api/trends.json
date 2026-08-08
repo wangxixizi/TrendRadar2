@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T15:53:54.759642+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-08-08T16:45:03.612060+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -18,8 +18,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时39分 ~ 15时53分]"
+          "appearance_count": 14,
+          "time_info": "[06时39分 ~ 16时45分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 16时45分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -73,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 15时53分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 16时45分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -88,8 +99,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时44分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[04时44分 ~ 16时45分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
