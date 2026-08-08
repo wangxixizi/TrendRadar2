@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T05:33:31.211552+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-09T06:33:11.512680+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时41分 ~ 05时33分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
@@ -34,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时33分]"
         }
       ]
     }
