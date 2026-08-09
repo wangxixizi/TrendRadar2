@@ -1,60 +1,7 @@
 {
-  "generated_at": "2026-08-09T23:35:14.735146+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-08-10T00:38:43.728840+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
-          "url": "https://www.zhihu.com/question/2069133357099832441",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 05时33分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 19时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
