@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-08-10T21:14:29.451798+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-08-11T00:07:52.952762+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
-          "url": "https://flash.jin10.com/detail/20260810053536334800",
-          "source": "金十数据",
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            27
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     }
