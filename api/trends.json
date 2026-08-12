@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T06:44:15.484768+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-13T07:45:11.473927+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 07时45分]"
+        },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
@@ -19,15 +30,26 @@
           "time_info": "[03时14分 ~ 06时44分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时44分]"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
@@ -44,16 +66,31 @@
           "time_info": "[03时14分 ~ 06时44分]"
         },
         {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            23,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时14分 ~ 07时45分]"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
           "url": "https://wallstreetcn.com/livenews/3148768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时45分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -68,17 +105,15 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek V4 Pro正式版API上线",
+          "url": "https://www.toutiao.com/trending/7673284418319945259/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            23,
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 05时50分]"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
@@ -129,7 +164,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
         }
