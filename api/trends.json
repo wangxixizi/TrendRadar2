@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T05:50:34.171197+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-08-14T06:45:48.681728+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -26,20 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -49,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -58,11 +46,25 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -73,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -82,11 +84,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时45分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -94,11 +109,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -113,21 +129,21 @@
           "time_info": "[04时47分 ~ 05时50分]"
         },
         {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek Harness公测",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+Harness%E5%85%AC%E6%B5%8B",
+          "source": "百度热搜",
           "ranks": [
-            14
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时50分"
+          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大指数集体高开",
@@ -138,8 +154,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时45分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
