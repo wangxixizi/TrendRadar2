@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T14:20:48.645346+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-08-13T18:11:19.792967+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -35,11 +35,12 @@
           "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 18时11分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -52,6 +53,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时10分 ~ 14时20分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时11分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -77,19 +91,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时14分 ~ 06时44分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -163,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "快把真正的DeepSeek V4 Pro还给我",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
