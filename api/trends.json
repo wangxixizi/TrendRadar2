@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T11:42:18.269242+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-08-15T12:35:14.761661+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek Harness实测",
@@ -20,8 +20,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时35分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -31,11 +31,25 @@
             7,
             8,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时35分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 12时35分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -60,16 +74,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
           "ranks": [
-            2,
-            6
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时42分]"
+          "time_info": "[12时34分 ~ 12时35分]"
         }
       ]
     },
@@ -87,8 +100,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 12时35分]"
         },
         {
           "title": "美元指数14日下跌",
@@ -120,7 +133,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
