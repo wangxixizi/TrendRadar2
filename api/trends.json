@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:43:34.457089+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-08-16T15:34:20.817764+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时34分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -69,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时34分]"
         }
       ]
     }
