@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:23:29.892609+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:27:12.486625+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时27分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时27分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -54,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时27分]"
         }
       ]
     }
