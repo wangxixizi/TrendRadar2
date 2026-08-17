@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T16:53:00.319934+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-08-17T22:32:23.494692+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -103,6 +104,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "华尔街“恐慌指数”触及年内低点，机构警告美股秋季抛售风险加剧",
+          "url": "https://flash.jin10.com/detail/20260817220603052800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3150547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3150546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -116,23 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌0.3%，报99.32。",
-          "url": "https://wallstreetcn.com/livenews/3150340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         }
       ]
     },
