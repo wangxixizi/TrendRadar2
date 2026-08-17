@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T09:24:15.445405+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-17T11:03:05.535264+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,24 @@
           "url": "https://www.zhihu.com/question/2072481373085028433",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "DeepSeek Harness邪修攻略",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 09时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时03分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -46,6 +37,17 @@
           "source": "微博",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 11时03分]"
+        },
+        {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
