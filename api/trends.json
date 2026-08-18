@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-08-18T07:38:03.781386+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-19T07:25:29.929503+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "谷歌 google gemini 热点 chatgpt openai 虚拟币 BTC 加息 减息 美股 美元 马斯克 特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价刚刚开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
+          "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫5%，美长债走V",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
